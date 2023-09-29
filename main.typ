@@ -3,78 +3,110 @@
 // Take a look at the file `template.typ` in the file panel
 // to customize this template and discover how it works.
 #show: project.with(
-  title: "Assignment 2",
+  title: "Assignment 3",
   authors: (
-    "Tingyu Wu
-who is DYING",
+    "Eleanore who is DYING",
   ),
-  date: "September 14, 2023",
+  date: "September 28, 2023",
 )
 
 // We generated the example code below so you can see how
 // your document will look. Go ahead and replace it with
 // your own content!
 
-== Problem 3
-Why don't use MSE as loss function for classification?
-
-== Solution 3
-AS for MSE we have: $ cal(L) = 1/m (y - hat(y))^2 $
-In the problem of classification, we normally use Logistic Regression or Softmax Regression. Take Logistic Regression as an example, our fitting function will be: $ f(z) = 1/(1+e^(-z)) $
-
-If we are going to use MSE as the loss function, it will be: $ cal(L)(w)= (y - 1/(1+e^(-(w x))))^2 $
-In order to minimize this loss function above, normally we will use Gradient Descent. Let's now take derivative: $ cal(L) '(w)= (f(z)-y) f'(z)x $
-// While$ 1-f(z) = e^(-z) / (1-e^(-z)) $
-// Thus, $ f'(z)= f(z)(1-f(z)) $
-
-From the above Eq we could realize that *the loss function using MSE is not convex* since the function $f(z) = 1/(1+e^(-z))$ is not convex, which will cause the problem of only finding local minimum rather than absolute minimum.
-
-On the other hand, if we use MLE as the loss function: $ J(w) = -[y ln(f(z)) + (1-y) ln(1-f(z))] $
-Take the derivative: $ J'(w) = (f(z)-y)/(f(z)(1-f(z))) f'(z)x $
-For the function $f(z)$,
-$ f'(z) = e^(-z)/((1+e^(-z))^2) =  f(z)(1-f(z)) $
-Thus, $ J'(w) = (f(z)-y)x $
-
-Comparing $cal(L)'(w)$ to $J'(w)$, we find out that $cal(L)'(w)$ have one more term, $f'(z)$, which reaches maximum $1/4$ when $z=0$. Therefore, *the velocity of convergence would be larger with MLE*.
-
 
 == Problem 4
-What's the relationship between log-odds and logistics, what's the relationship between log-odds and self-information? Interpret the result you get.
-(l0g-odds is $log(p/(1-p))$)
-
+Demonstrating the equivalence between a multiple layer neural network without an activation function and a layer of linear networ
 == Solution 4
-- $log(p/(1-p))$
-Let's directly prove that sigmoid(log-odds)=p.
-$ exp{-log(p/(1-p))} = (1-p)/p $
-Hence, 
-$ 1/(1+exp{-z}) = 1/(1+(1-p)/p) = p $
-Therefore, we say that log-odds is the inverse function of sigmoid.
+Let's firstly consider a 2 layer neural network, while $W_1$ is weight matrix and $b$ is bias, it would compute $W_1 x + b_1$.
 
-- $I = log 1/(p(x))$
-$ "log-odds"(x) &= log(p/(1-p)) \
-                &= log(p) - log(1-p) \
-                &= I(1-p) - I(p) 
-$
-In this situation, log-odds can be used to show the difference between the self-information of whether an event is happened, or not.
+A second layer would then compute: $ W_2(W_1 x + b_1) + b_2 = W_2W_1 x + W_2b_1 +b_2 $
+//$ W_3(W_2W_1 x + W_2b_1 +b_2) + b_3 = W_1W_2W_3x + W_2W_3b_1 + W_3b_2 + b_3 $
+*which is equivalent to $W'x + b'$*.
+Also, adding layers will not change the resulte. 
+
+Thus, we can concludes that MLP without activation function is equivalent to only a layer of linear network. This also tells us the function of activation function: add non-linear properties.
+//$ W_n (W_(n-1)x + b_(n-1)) +b_n = (product_(i=1)^(n) W_i) x +   $
+
+== Problem 5
+What does the negative sign signify in Gradient Descent?
+== Solution 5
+GD moves the vector in the *opposite direction* of the current slope towards the minima.
 
 == Problem 6
-Prove KL Divergence is non-negative.
-
+What could be the outcome if there are too many layers with sigmoid as the activation function?
 == Solution 6
-According to KL Divergence:
-$ D_P (Q) &= D_(K L)(Q||P) = H_P (Q) - H_Q (P) \
-          &= sum_x Q(x) log 1/(P(x)) - sum_x Q(x) log 1/(Q(x)) \
-          &= sum_x Q(x) log Q(x)/(P(x))
+Firstly, since $sigma$ is based on exponetial function, the *calculated amount is big*.
+
+Secondly, when we use GD, the fomular for updating weight is,
+$ w_(i+1) = w_i - eta (diff cal(L))/(diff w_t) $
+while
+$ (diff cal(L))/(diff w_i) &= (diff cal(L))/(diff x_i) dot (diff x_i)/(diff z_i) dot (diff z_i)/(diff w_i) \
+&= (diff cal(L))/(diff x_i) dot sigma'(z_i)x_(i-1)
+$
+Since the derivative of $sigma$ is
+$ sigma '(z) &= e^(-z)/((1+e^(-z))^2)
+= sigma (z) (1-sigma (z))
+$
+Also, the range of derivative of $sigma$ is $(0, 0.25)$.
+
+Thus, in the process of BP, as we approaching input layer, the continued multiplication will become smaller, causing *the update of gradient become slower*. In this situation, the neural network just work in shallow layers, in fact.
+
+== Problem 7
+Prove $tanh (z)+1 = 2 sigma (2z)$, and explore their potential relationship and why we replace sigmoid with tanh. (hint: range, derivative)
+== Solution 7
+As we know, 
+$ tanh (z) &= (1-e^(-2z))/(1+e^(-2z)) \
+  tanh (z) + 1 &= 2/(1+e^(-2z)) \
+$
+while
+$ 2 sigma (2z) = 2 1/(1+e^(-2z))
+$
+Thus, $tanh (z)+1 = 2 sigma (2z)$
+
+Then,let's look at the difference between this two function by graph.
+#figure(
+  image("tanh vs. sigmoid.png", width: 40%),
+  caption: [
+    the image of $tanh$ vs. sigmoid
+  ],
+)
+Transformation from $sigma$ to $tanh$ make the center(inflection point) of activation function change from $0.5$ to $0$. Thus, *use of $tanh$ will make the probability distribution after activating centered at $0$* rather than $0.5$, which is more natural.
+
+Then, let's find the derivatives.
+$ sigma '(z) = sigma (z) (1-sigma (z)) $
+$ tanh '(z) &= (4e^(-2z))/(1+e^(-2z))^2 \
+&= ((1+e^(-2z))^2-(1-e^(-2z))^2)/(1+e^(-2z))^2 \
+&= 1- tanh (z)^2
 $
 
-Jensen's Inequality tells us: for any real function  $f(x)$ which is convect on the interval $I$, the below inequality is satisfied:
-$ f(sum_(i=1)^N p_i x_i) <= sum_(i=1)^N p_i f(x_i) $
-while $p_i >= 0$, $sum_(i=1)^N p_i = 1$. Also, $log(x)$ is a convex function.
-
-Thus,
-$ D_P (Q) &= - sum_x Q(x) log P(x)/(Q(x)) \
-          &<= - log(sum_x Q(x) P(x)/(Q(x))) \
-          &= - log(sum_x P(x)) \
-          &= - log(1) \
-          &= 0
+Calculating and comparing the range of derivative for $tanh$ and $sigma$, we find,
+$ tanh'(z) &: (0, 0.25) \
+  sigma '(z) &: (0, 1)
 $
+Thus, *larger derivatives of $tanh$ lead to faster convergence during training*, as updates to the model's parameters are more substantial.
+
+//Thus, in the process of GD with backpropagation, while $z=w x$ and $y = g(z)$ the local gradient is,
+//$ (diff a)/(diff w) &= (diff a)/ (diff z) dot (diff z)/(diff w) \
+//&= a(1-a) dot x
+//$
+//Since $a(1-a)$ is always larger than $0$, the sign of local gradient will only depends on $x$. After proceesed by activation function $a= sigma(z)$, all $x$ will be larger than $0$, making the sign of the local gradient $(diff a)/(diff w)$ always positive. 
+
+
+== Problem 8
+How can the problem of Overfitting be solved? Provide a list of at least three methods and illustrate two of them.
+== Solution 8
+*1. Imporve training dataset.*
+We could have find or create more data. 
+
+*2. Randonly dropout some point in training set*
+We could randomly egnore some of the neuro in the process of training.
+
+*3. Use simple model rather than complicated one*.
+
+== Problem 9
+Thinking: Why does model training require more VRAM than inference? Not necessary to prove it, show me your guess.
+== Solution 9
+In the process of *training*, which is usually refers to BP. It requires space to *store each weight’s gradients and learning rates*.
+
+*Inference* refers to FP, where only the parameters of network need to be active in the memory. The activations are discarded once the forward pass moves to a new layer. Hence, only the layer that is active in memory and the layer that gets calculated are comsumpting memory. Thus, inference only needs to continuously *hold the network parameters and temporarily hold two feature maps*.
