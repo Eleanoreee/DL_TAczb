@@ -1,0 +1,38 @@
+1) $\left( \sum_{k=1}^{n} a_k b_{k} c_{kk}' d_k' e_{kk}' f_{kk}' g_{kk}' h_{kk}' i_{kk}' j_{kk}' k_{kk}' l_{kk}' m_{kk}' n_{kk}' o_{kk}' p_{kk}' q_{kk}' r_{kk}' s_{kk}' t_{kk}' u_{kk}' v_{kk}' w_{kk}' x_{kk}' y_{kk}' z_{kk}' \right) \left( \sum_{k=1}^{n} a_k b_{k} c_{kk} d_k e_{kk} f_{kk} g_{kk} h_{kk} i_{kk} j_{kk} k_{kk} l_{kk} m_{kk} n_{kk} o_{kk} p_{kk} q_{kk} r_{kk} s_{kk} t_{kk} u_{kk} v_{kk} w_{kk} x_{kk} y_{kk} z_{kk}' \right)$
+
+2) $\dfrac{\int_0^1 e^{-x} \cos(x)^3 \sin(x)^4 dx}{\left( \int_0^1 e^{-x} \sin(x)^6 dx \right)^2}$
+
+3) $\sqrt[3]{a+b\ln(c-d\tanh^{-1}(e))-\frac{f}{g}}$
+
+4) $i\frac{\int_{C_1}^{C_2} e^{zt} (t^2\sin(t)\cos(t)-t^3\sin(t)^2) dt}{\left( \int_{C_1}^{C_2} t^2e^{zt}\sin(t)^2 dt \right)^3}$
+
+5) $\dfrac{\operatorname{Re}\left(\int_0^1 e^{-x} (x^2+ix\cos(x))dx\right)}{\left|\int_0^1 e^{-x} (\sin(x)+i\cos(x)) dx \right|^3}$
+
+6) $\dfrac{\operatorname{Im}\left(\int_{-\infty}^{\infty} f(t) g(t) h(t) dt\right)}{\int_{-\infty}^{\infty} |f(t)|^2 |g(t)|^2 |h(t)|^2 dt}$
+
+7) $j\sqrt[4]{\frac{\int_0^1 (x^2-ix)^3 dx}{\left(\int_0^1 x^4 e^{i x} dx \right)^3}}$
+
+8) $\dfrac{\operatorname{Re}\left( \int_{-\infty}^{\infty} f(t) g(t) h(t) dt \right)}{\left|\int_{-\infty}^{\infty} f(t) g(t) h(t) dt \right|^2}$
+
+9) $\dfrac{\operatorname{Im}\left(\int_0^1 e^{-x} (x^2\sin(x)^3+ix\cos(x)^2) dx\right)}{\left|\int_0^1 e^{-x} (\sin(x)+i\cos(x)) dx \right|^5}$
+
+10) $k\sqrt[6]{a+\frac{b}{c-d\tan(\arctan(e)-f)}-\frac{g}{h}}$
+1) $\frac{\sinh(x^2\ln(\sec(y))+e^z)}{1+\tan^{-1}(\pi\cot(t)\csc(u)^2)}=0$
+
+2) $(-1)^{\lfloor \log_2(x) \rfloor} \cdot \sin(\pi x)^3 \cos(4\arctan(y)) = 0$
+
+3) $e^{\sqrt{[w]\ln(1+|z|^2)}} = w^z$
+
+4) $\sum_{k=1}^{\infty} (-1)^k \binom{2n}{2k-1} x^{4k-2} = 0$
+
+5) $D_x^{-1} \left(\cot\left(x + i \frac{\pi}{2}\right)\right)^n = \frac{i^n}{2^n n!} \cdot B_{n}(\cos(x),\sin(x))$
+
+6) $\lim_{z \to 0} \int_{|w|=1} \frac{(1-e^{-z})^{\frac{2}{3}}}{\left(\frac{z^2}{4}-w^2\right)^2} dw = -2 \pi e^{-\frac{2}{9} z}$
+
+7) $\sinh(x)\cos(y) + i\sin(x)\sin(y) = \frac{(e^x-e^{-x})(e^{i y}+e^{-i y})}{2}$
+
+8) $J_0(\sqrt{x^2+y^2}) - J_1(\sqrt{x^2+z^2}) = 0$
+
+9) $\sum_{k=1}^{n} (-1)^k \frac{\cos(kx)}{k!} x^{k-1} = \sin(x) - \cos(x)$
+
+10) $(-1)^{\lfloor n/2 \rfloor} (2^n n!)^{-1} \cdot B_{n}(\cos(x),\sin(x)) \cdot \Gamma(n+1) = 0$

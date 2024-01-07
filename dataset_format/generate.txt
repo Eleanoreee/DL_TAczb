@@ -1,0 +1,28 @@
+Of course! Here are 10 random long and complex math expressions in LaTeX:
+
+1. $\int_{0}^{1} \frac{dx}{x^2 + 1}$
+2. $ \sin\left(\frac{\pi}{4} \cdot \cos(x) \right)$
+3. $\sum_{k=1}^{\infty} \frac{1}{k^2} \cdot \frac{1}{k+1}$
+4. $e^{x^2} \cdot \sin(x)$
+5. $\int_{-\pi}^{\pi} \frac{dt}{\sqrt{t^2 + 1}}$
+6. $ \prod_{i=1}^{5} \left(1 + \frac{1}{i}\right) \cdot \frac{1}{6}$
+7. $\int_{0}^{\infty} \frac{dx}{\sinh(x) - 1}$
+8. $ \cos\left(\sum_{k=1}^{\infty} \frac{1}{k}\right)$
+9. $\sum_{i=1}^{\infty} \frac{1}{i^2} \cdot \frac{1}{i+1}$
+10. $e^{x \sin(x)} \cdot \cos(x)$
+
+I hope these expressions are helpful for your practice!
+Of course! Here are 10 random long and complex math expressions in LaTeX:
+
+1. $\int_{-\pi}^{\pi} \sin(x)^2 dx$
+2. $ \sum_{k=1}^{\infty} \frac{1}{k^2} \left( \frac{1}{k+1} - \frac{1}{k} \right)$
+3. $ \int_{0}^{\infty} \frac{x}{e^x - 1} dx$
+4. $ \prod_{i=1}^{10} \left( 1 + \frac{x_i}{10} \right)^2$
+5. $\sum_{i=1}^n \left( \frac{a_i}{b_i} \right)^2$
+6. $ \int_{-\infty}^{\infty} \frac{e^{-x^2}}{x} dx$
+7. $\prod_{j=1}^{4} \left( 1 + \frac{y_j}{5} \right)^3$
+8. $ \int_{0}^{1} \frac{x}{1-x} dx$
+9. $\sum_{k=1}^{\infty} \frac{1}{k^2 \sin(\pi k/n)}$
+10. $ \prod_{i=1}^n \left( 1 + \frac{x_i}{i} \right)^4$
+
+I hope these expressions are helpful! Let me know if you need more.

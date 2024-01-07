@@ -1,0 +1,1083 @@
+e^{\pi i} + 1 = 0
+\sum_{n=1}^{\infty}{(-1)^nn!x^{n-1}\over n\left(n-\frac{1}{2}\right)\left(n-\frac{3}{2}\right)\cdots\left(n-[(\frac{1}{2})_k]\right)}
+\lim_{z\to \infty}{\Gamma(az+\beta)\Gamma(cz+\delta)\over \Gamma(bz+\gamma)}=0
+a,b,c\ne 0
+ad-bc\ne 0
+{}_{4}F_{3}\left[\begin{array}{ccc} a& b& c& d\\ e& f& g& k \end{array};x\right] = \sum_{n=0}^{\infty}{\prod_{i=1}^4{\Gamma(a_i+n)\Gamma(b_i+n)\Gamma(c_i+n)\Gamma(d_i+n)}\over {\Gamma(e_i+n)\Gamma(f_i+n)\Gamma(g_i+n)\Gamma(k_i+n)}}
+\int_0^1\int_0^x f(x,y)\,dy\,dx = \int_0^1\int_0^y g(x,y)\,dx\,dy
+e^{i\theta}=\cos\theta+i\sin\theta
+\left(\begin{array}{cc} a_{11} & a_{12}\\ a_{21} & a_{22} \end{array}\right) \left( \begin{array}{c} x_1 \\ x_2 \end{array} \right) = \left( \begin{array}{c} b_1 \\ b_2 \end{array} \right)
+\sinh(x)=\frac{e^x-e^{-x}}{2}
+I=\int_0^\infty x^m e^{-ax^n}\,dx={m+n\choose m}\left(\frac{1}{a^{m+n}}\right)
+f(x)=\sum_{k=0}^n {n \choose k} a_k x^k + \sum_{j=0}^{n-1}\sum_{k=0}^j (-1)^{j-k} {n \choose j} {j \choose k} b_{jk} x^k
+\left(4-\sqrt{37}\right)^2\sin\left(\pi+\frac{17}{36}\right) = -38.015
+\sum_{k=0}^{10} (-1)^k \binom{15}{k} k! x^{15-k}
+D_x\left[f(x,y) = \exp\left(x^2 y^2 - e^{\sin(xy)}\right)\right] = 2x^2ye^{\sin(xy)}f(x,y)
+\sqrt{a^2 + b^2} \cos^{-1}\left(\frac{acos(c/b) - bcot(a/c)}{a+b}\right) = c
+I_{n}(t) = \int_{0}^{\infty} x^{n} e^{-tx} dx = \dfrac{\Gamma(n+1)}{t^n}
+\operatorname{Ei}(x) + \ln|x| = W\left(\dfrac{-e^{-x}}{x}\right)
+\lim_{n\to\infty} \sum_{k=0}^{n} (-1)^k \binom{2n}{k} \left(a_k - b_k\right) = 0
+a_k,b_k\geq0
+\sum_{k=0}^{\infty} a_k = \sum_{k=0}^{\infty} b_k = 1
+\int_{-\pi}^{\pi} \frac{x\sin(2x)}{e^x + e^{-x}} dx = -\pi
+\sqrt{\left(\cos(2x)\right)^3 + \left(\sin(2x)\right)^3} = 1 - \cos(4x)
+L_n(x) = \sum_{k=0}^{n} (-1)^k \binom{n}{k}^2 x^k
+L_n(x)
+2\cosh^{-1}\left(\sqrt{\frac{1+\tanh(3x)}{2}}\right) = x + \frac{1}{6}\ln\left(\frac{1+\tanh(3x)}{1-\tanh(3x)}\right)
+\int_0^x t^{-5/2}(1-t^{1/2})^{7/4}dt = -\frac{8}{35} x^{-3/2} (1 - x^{-1/2})^{-9/4}
+D(x) = \frac{\cosh\left(\frac{x}{\sqrt{2}}\right)\sinh\left(\frac{x}{\sqrt{6}}\right)}{\sinh^2\left(\frac{x}{\sqrt{3}}\right)} + \frac{\sinh\left(\frac{x}{\sqrt{2}}\right)\cosh\left(\frac{x}{\sqrt{6}}\right)}{\sinh^2\left(\frac{x}{\sqrt{3}}\right)}
+e^{\pi i/6} - e^{-i\pi/6} = \sqrt{3}\tan\left(i\frac{\pi}{12}\right)
+\sum_{k=1}^n \left[\sum_{\ell=1}^{2k-1} \binom{2k-1}{\ell-1}\binom{2k-\ell-1}{2k-1-m+\ell}\frac{\Gamma(m+1)}{\Gamma(m-\ell+1)} (m-\ell)_\ell\right] = n
+G(a,b;x) = \sum_{n=0}^{\infty} \frac{(a)_n(b)_n}{(q)_n(c)_n}q^nn!\ \ _2F_1(a+nq,b+nq;cq;q,x)
+f(x) = x^3 + 4\cosh^{-1}(|x|)x
+\frac{d}{dx}\left[\int_{-\infty}^{x} t^{-2/5} e^{-t^{-1/5}} dt\right] = -x^{-3/5} e^{-x^{-1/5}}
+g(y) = \sum_{k=0}^{\infty} \frac{(4)_k}{k!(2)_k} y^k
+\sinh(\pi\tanh(z)) - \cosh(\pi\coth(z)) = -\frac{i}{\sinh(2z)}
+\displaystyle x_{n+1} = \frac{1}{2}\left(x_n + \frac{2a}{x_n}\right)
+\displaystyle \int\limits_0^\infty {x^p e^{-ax} } dx = \frac{\Gamma (p+1)}{a^{p+1}}
+\displaystyle z(t) = C_1 e^{\lambda t} + C_2 e^{\mu t} - \frac{\lambda\mu}{(\lambda - \mu)(k_\infty - k_0)} [e^{\lambda t} - e^{\mu t}]
+\displaystyle I = -\int\limits_S {\left( {E \cdot n} \right)dS}
+\displaystyle R_1 = \frac{RT}{F}\ln{\left(\frac{a_{B^{-}}}{a_{HA}}\right)}
+\displaystyle R_2 = \frac{RT}{F}\ln{\left(\frac{a_{B}^{-}}{Ka^2}\right)}
+R
+T
+F
+a
+K
+\displaystyle \left[ {\frac{1}{{1 - x^2 }}} \right] = 1 + \mathop {\lim }\limits_{n \to \infty } \sum\limits_{k = 0}^n {x^{2k} }
+\displaystyle P(t) = \frac{A}{2}\left[ {\cos (\omega t - \phi ) + \sin (\omega t - \phi )} \right]
+\displaystyle y' = a_0 + a_1 x + a_2 x^2 + \cdots + a_n x^n
+a_i
+x
+\displaystyle f(x) = \frac{1}{x} - \ln (x)
+\displaystyle \nabla^2 f(x, y, z) = \frac{\partial^2 f}{\partial x^2} + \frac{\partial^2 f}{\partial y^2} + \frac{\partial^2 f}{\partial z^2}
+R(t) = e^{-t/2} \sin(\sqrt{3} t) + 2\cos(4t)
+\sum_{n=1}^\infty (-1)^n {2n \choose n} x^{2n}
+y(x) = x^3 \int_0^x \frac{\tan^{-1}(t)}{(x-t)^2} dt
+f(z) = z^5 + 3\sinh(\overline{z}^2) - e^z \cos(3\ln(\lvert z \rvert))
+g(s, t) = J_1(st) \sin(2\pi s/7) K_0(\pi s)
+\int_0^\infty \frac{x^n e^{-x}}{(1+x^2)^m} dx = (-1)^n {m \choose n} 2^{2m-n} \Gamma(n+1/2) \Gamma(m-n)
+h(r, t) = r^\alpha e^{-\lambda r^\beta} C_\nu^\mu(\lambda rt) P_\nu^\mu(\cos\theta)
+w(x, y) = J_0(a\sqrt{x^2+y^2}) H_0^{(1)}(b\sqrt{x^2+y^2})
+\int_0^1 \frac{\log(1+tx)}{(t-x)^2} dx = -\frac{\pi^2}{12}-\log^2(1-x) |_0^1
+f(u, v) = C_\nu^\mu(\gamma u) P_\nu^\mu(\cos\theta) Q_\nu(\delta v)
+2e^x\sin(3\pi x)\left(\frac{d}{dx}\right)^3 \int_0^x (4t+1) dt
+\sum_{k=0}^{n-1} {n \choose k}^2 (-1)^k {2n-1 \choose n} B_{2n-1-k}
+f(x) = \int_0^1\int_0^1 \frac{\arctan[(x-t)(y-s)]}{(x-t)(y-s)}dsdt
+\lim_{n\to\infty} \left(\sum_{k=0}^{n-1} k^3 2^{2^k}\right)^2
+D_qf(x) = f[qx+\{qx\}] - qf[qx-\{qx\}]
+\lbrace x \rbrace
+x
+q
+\frac{\Gamma(n+a)\Gamma(b)}{\Gamma(n+a+b)} \int_0^1 x^{n+a-1}(1-x)^{b-1}dx
+f(x) = \sin(\pi x) + 2\sum_{k=1}^\infty \frac{(-1)^k}{(2k-1)(4k-1)} \sin[(2k-1)\pi x]
+\int_0^1 f(x)g(x)dx = \frac{1}{6}\left[ (f*g)[3] - (f*g)[-3]\right]
+(h)*(k)
+h
+k
+F_n = F_{n-1} + F_{n-2}
+F_{-1}=0
+F_0=1
+\int_0^x \frac{\sin(t^2)}{\sqrt{x-t}}dt
+D(z) = (z^2 - z^{-2})/(1+e^{2\pi iz})
+\displaystyle{f(x) = x\int_{0}^{x}\frac{\sin t}{t}dt + \int_{x}^{\infty}\frac{\cos t}{t}dt}
+h(x,y) = \left(\frac{\partial^2}{\partial x^2} - \frac{\partial^2}{\partial y^2}\right)^3\Delta(x,y)
+\displaystyle{I(r) = r^2\int_{0}^{1}\frac{(1-t^2)(1+rt)}{(1-rt)^3}dt}
+g(x) = \sum_{n=0}^{\infty}(-1)^n\binom{x}{2n}
+\displaystyle{J(x,y) = x^4\int_{0}^{1}\frac{(1+xt)(1-yt)}{(1-xt)(1-yt)}dt}
+k(z) = \left(\frac{\partial}{\partial z} - z^{-1}\right)^5 e^{z^2}
+\displaystyle{L(x,y) = x\int_{0}^{x}\frac{e^t-(1+yt)}{t(1-ty)}dt + \int_{x}^{\infty}\frac{e^t}{(1-ty)(t+y)}dt}
+h(z) = (z^2 - z^{-2})/(1+e^{2\pi iz})
+\displaystyle{M(x,y) = \int_{0}^{1}\frac{(\sin t + y\cos t)(x-xt)}{(1-xt)^2}dt}
+ x_i = \frac{a_{ij}*x_j + b_{ik}*y_k}{\gamma_{il}} 
+ f(x, y) = \int\limits_{-\infty}^{+\infty}\int\limits_{-\infty}^{+\infty}{g(u, v)\cdot h(x-u, y-v)} \, du\, dv 
+ y(t) = C_1 e^{\lambda_1 t} + C_2 e^{\lambda_2 t} + \frac{P}{\Gamma(\alpha)}\int\limits_{0}^{t}{e^{\lambda(t-\tau)}(t-\tau)^{\alpha-1}}\,d\tau 
+ \mathbf{x}(\tau) = \mathbf{R}(\theta(\tau))\cdot\mathbf{x}(0) + \int\limits_0^\tau{\left[\mathbf{R}(\theta(s))\right]^{-1}\cdot\mathbf{U}(s)} \, ds 
+ X_i^2 = {\Large\sum}_{j=1}^n{X_{ij}^2} - {\Large\sum}_{j=1}^n{X_{ij}X_{ji}} + n(n-1)\overline{X_i}^2 
+ f(x) = \lim\limits_{n\rightarrow\infty}{\frac{P(a_1, a_2, ..., a_n) + P(b_1, b_2, ..., b_n) + ... + P(z_1, z_2, ..., z_n)}{n}} 
+ F(x) = \frac{d}{dx}\int\limits_{-\infty}^{x}{G(t)\,F(t)}\,dt 
+ f(x, y) = \frac{\partial^2}{\partial x\partial y}\int\limits_{-\infty}^{+\infty}{G(t_1, t_2)\cdot H(x-t_1, y-t_2)} \, dt_1\, dt_2 
+x^2_3 \sin\left(\pi+\arctan(e^x)\right) - 7\log_{10}\left|\sqrt{5+i}-\tanh^{-1}(x)\right|
+\sum\limits_{k=1}^{n} (-1)^k {2k \choose k} x^{3k}
+D_y f(x,y) = \lim\limits_{\Delta y \to 0}\frac{f(x+\Delta x, y+\Delta y)-f(x+\Delta x, y)}{\Delta y}
+\int\limits_{-\infty}^{\infty} |f(t)|^2 e^{-2\pi^2 t^2 dt}
+x(t) = A \sin(\omega t + \phi)
+\lim\limits_{x \to 0}\frac{1 - (1+x)^p}{x^q} = (-1)^p p! \sum\limits_{k=0}^{q-1} \binom{p+k}{k} (-1)^k
+D_x g(x,y) = \lim\limits_{\Delta x \to 0}\frac{g(x+\Delta x, y)-g(x-\Delta x, y)}{2\Delta x}
+\iint\limits_{R} f(x,y) dA
+C(n,k) = n! / (k!(n-k)!)
+\lim\limits_{x \to 1} \left(\frac{2x}{1+x^2}\right)^x = e^{-2}
+x_2 = \frac{e^{\int_{0}^{x_1}f(t)dt} + \sin\left(\pi+\tan^{-1}(\ln(x_1))\right)}{(1+x_1^3)^2}
+y = \sqrt[3]{a+\cos(b\log_{c}(d+(e^{\sin(\pi/f)}g(h))i))}
+z = \lim_{n\to\infty} \frac{\sum_{k=0}^{n-1} \sin^2((k+1)^3)\cdot 2^k}{1+\left(\int_{0}^{1} (t^2+1)^2dt\right)^{2n+1}}
+u = \prod_{j=0}^{\infty} (\tanh(j!))^{(-1)^j}
+w = \sum_{i=0}^{\sqrt{\pi}} (-1)^i \left(\cos\left(\frac{(2i)!}{i!}\right)\right)
+p = \int_{0}^{1} e^{-x^3}(x^4+1)^7 dx + \int_{0}^{1} x\sin(x^2)\cdot \ln(x^5+1)^8 dx
+q = \lim_{m\to\infty} \frac{1}{\left(\sum_{j=1}^{m} (j^{j!})^{-1}\right)^{1/3}}
+r = \exp\left(\sinh^{-1}\left(\int_{0}^{\pi} x^2\cdot e^{\cos(x)}dx\right)\right)
+s = \sum_{i=1}^{100} \frac{\sin(i^2)}{i+\sqrt{i+1}}
+t = \prod_{j=1}^{\infty} (j!)^\frac{1}{(-1)^j}
+\displaystyle{ 2\sinh^{-1}\left(\frac{\tan(z)}{2}\right) + \ln\left(\cos(z)\right) }
+\displaystyle{ \int_{0}^{1} x^x (1-x)^{1-x} dx = \Gamma(2)^2 }
+\displaystyle{ \sum_{k=0}^{\infty} \frac{(-1)^k}{2k+1} \binom{2k}{k}^2 = \pi/8}
+\displaystyle{ \int_{0}^{2\pi} e^{i(n-m)\theta} d\theta = 2\pi I_{n-m}(0) }
+\displaystyle{ \lim_{x\to\infty} x^x \left(1+\frac{a_1}{x}+\dots+\frac{a_k}{x^k}\right)^x e^{-x} = \Gamma(1+1/k) }
+\displaystyle{ F(x,y) = \int_{0}^{1} \int_{0}^{1-t_1} f(x,yt_1,t_2) dt_2 dt_1 }
+\displaystyle{ C_n(x) = \frac{n!}{\left(\frac{n}{2}\right)!\left(\frac{n}{2}\right)!} P_n^{\frac{n}{2},\frac{n}{2}}(x), \quad x\in[-1,1] }
+\displaystyle{ J_{2k}(x) = (-1)^k\sqrt{\frac{2}{\pi}} 2^(4k+2) k! \left( \frac{1}{x}\right)^{2k+1} }
+\displaystyle{ I_{0,n}(x_1,\dots,x_n) = \int_{[0,1]^n} f(x_1,\dots,x_n) dx_1\dots dx_n }
+\displaystyle{ \sum_{k=0}^{n-1} {n\choose k}^2 {k\choose r}^2 = {2n\choose 2r} }
+\displaystyle x^2_1\sin(y_3-\pi/4)+c_5e^{-t^2/2}\int_{-\infty}^{x}f(u)\tanh(u)\,du
+\sum_{k=0}^{\infty}(-1)^k\binom{n}{k}^2\frac{(6k)!}{(3k)!(2k+1)!}
+\prod_{j=1}^{m}\left(\sqrt[3]{x_j}+x_j^5\cos(e^{x_j^4})\right)
+\lim_{n\rightarrow\infty}\int_{0}^{1}f_n(t)\sin(g_n(t))\,dt
+\displaystyle \frac{\partial}{\partial x}\left(\frac{xy}{e^{xz}-1}\right)-\frac{y^2}{z^3}\ln\left|\frac{xz-y}{xz+y}\right|
+\sum_{k=0}^{n}\binom{2n}{k}^2\cos(2^k k x)
+\int_{-\infty}^{\infty}e^{-t^2/4}\left(\frac{\sin(x t)}{t}\right)^2\,dt
+\prod_{j=1}^{n}(a_j+b_je^{c_j})
+\lim_{x\rightarrow\pi}\frac{e^x\cos(x)-1}{x^4}
+\sum_{k=0}^{n}\binom{n}{k}^2\cos(3^k k x)\sin(5^k k y)
+\left(\sum\limits_{k=1}^n k^2\right)^3+\sqrt{\prod\limits_{i=1}^m \sin\left(x_i\right)}=\frac{e^{\pi^2}-7}{10}
+f(x)=\int\limits_{-\infty}^{\infty} \exp\left(-t^4+5x^3 t^2\cos(xt)\right) dt
+\det\begin{bmatrix} A_1 & B_1 \\ A_2 & B_2 \end{bmatrix}=\frac{1}{2}\operatorname{Tr}(A_1B_2-B_1A_2)
+g(x)=\lim\limits_{y\to x} \frac{\sinh(\cos(y))}{\log(\tan(x^2+e^y))}
+\Delta x_{j+1}=\sqrt{\frac{h^2}{12}\left[f(x_j+2h)-16f(x_j+h)+64f(x_j)\right]}
+P(n>X)=\sum\limits_{k=0}^{n-X} \binom{n-X}{k} p^k q^{n-X-k}
+\frac{\partial}{\partial t}\left(\nabla^2 u-\Delta t \nabla(\rho v)\right)=-\nabla(p+\rho v^2)-\nabla\cdot\tau
+C_1=\int\limits_{0}^{2\pi} f(x,y) x \cos(nx) d\theta+\int\limits_{0}^{2\pi} f(x,y) y \sin(nx) d\theta
+\frac{d}{dx}\left(\ln|f(x)|+i\arg[f(x)]\right)=i\frac{\overline{f'(x)} f(x)-f'(x) \overline{f(x)}}{|f(x)|^2}
+Q(s)=\int\limits_{-\infty}^{\infty} g(t) e^{-st} dt=\mathcal{L}\left\{g(t)\right\}
+x_{n+1} = \dfrac{x_n^2 + y_n}{2x_n}
+\sin(x)^2+\cos(y)^2-x^2y^2=0
+(4\sqrt{2}-3i)(\sqrt{3}+i)=6+18i
+y'''' - 5y''' + 20y'' - 40y' + 80y = x^{40}
+\dfrac{(x^2+x+1)^7}{(x-1)^3} = a_0 + a_1 x + \cdots + a_{10} x^{10}
+e^{-x}\cos(2x)+x\sin(x^2)e^{\pi/4}=y
+\int_0^t (s^2-3) ds = t^3 - 3t
+(x^3+5x)(2x^2+x)-(x^3-2x)(x^2+6x)=0
+2\tan^{-1}(\sinh x)\sec(y)-\cot(z)\csc(z-\pi/2)=0
+\sum_{k=0}^{n} {n \choose k}^2 3^k = F_n
+y = (x^2 + x + 1)(3\sin^2{x} - 5\cos^3{x})
+\int_{-\infty}^{\infty}\frac{\exp(-t^2/2)}{s-t}dt = \sqrt{2\pi} s e^{-s^2/2}
+f(x) = \frac{1}{\Gamma(k)}\int_0^\infty t^{k-1} (1+t)^{-(n+k)} e^{-xt} dt
+G(s) = H(s) + K(s) - \int_{-\infty}^{\infty} h(u) k(s-u) du
+f(x) = \frac{1}{2\pi}\int_{-\pi}^\pi F(\omega) e^{-i\omega x} d\omega
+C_n(x,y) = \sum_{m=0}^n c_{nm} P_m(x)P_m(y)
+f(x) = \frac{1}{2\pi}\int_{-\infty}^\infty F(\omega) e^{-i\omega x} d\omega + \frac{1}{\pi}\int_{0}^\infty (F(t+\Delta)-F(t-\Delta)) \frac{\sin\Delta\omega}{\omega} d\omega
+x_n = h_0 + \sum_{k=1}^n (a_{k,n-1}x_{n-k} + b_{k,n-1}y_{n-k})
+f(x) = x\left(1-\frac{2x}{b}\right)\exp\left(-x^2/(2a)\right)
+G(s) = \frac{\omega_n^2}{\omega_d} \cdot \frac{1}{s^2 + 2\zeta\omega_n s + \omega_n^2}
+2\sin(\pi/4)^3 - \sqrt{e^x + \ln(x^2-5)} = 0
+\frac{\cosh^{-1}(\sec(7x+2))}{\sin(6x)\tan(3x+1)} = x
+e^{\log_3(\sqrt[3]{2+\pi}\cdot\ln(x^4-5))} - 2\sinh(\cos(5x)+1) = 0
+\cot\left(\arctan(x^5+\frac{1}{x})\right)^4 + \tan^{-1}(\sin(7x+1)\cdot\cos(3x-2)) = 0
+3\cosh^{-1}(\sec(2x)\cdot\tanh(x^3-5)) - 4\sin(\ln(x^6-5)) + \frac{\pi}{x} = 0
+\frac{e^{\log_3(\sqrt[3]{2+\pi})\cdot\ln(x^4-5)}+2\sinh(\cos(5x)+1)}{x^2+1} = \tan(7x+1)\cdot\sin(3x-2)
+e^{\log_3(\sqrt[3]{2+\pi})\cdot\ln(x^4-5)} - 2\sinh(\cos(5x)+1) + \frac{\pi}{x} = 0
+\cot\left(\arctan(x^5+\frac{1}{x})\right)^4 + \tan^{-1}(\sin(7x+1)\cdot\cos(3x-2)) - x^2 = 0
+3\cosh^{-1}(\sec(2x)\cdot\tanh(x^3-5)) + 4\sin(\ln(x^6-5)) + \frac{\pi}{x} = 0
+\frac{e^{\log_3(\sqrt[3]{2+\pi})\cdot\ln(x^4-5)}+2\sinh(\cos(5x)+1)}{x^2+1} - \tan(7x+1)\cdot\sin(3x-2) = 0
+\mathcal{D}\left(\mathrm{sgn}(\sin(x))\ast\tilde{f}(x)\right)(t) = \frac{1}{2\pi} \int_{-\pi}^{\pi} \mathrm{sgn}(\sin(s)) \sin(s-t) \hat{f}(s) ds
+\mathrm{erfc}\left(\frac{\mu-x}{\sqrt{2\sigma^2}}\right) - \exp\left[\frac{(\mu+x)^2}{2\sigma^2} + \frac{\sigma^2}{\mu^2}\right] \cdot \mathrm{erfc}\left(\frac{\mu+x}{\sqrt{2\sigma^2}}\right)
+\sum_{j=0}^{\infty} (-1)^j {k \choose j}^2 (k-2j)^l
+e^{i(a-\pi/2)} \left(\cos(a) - i\sin(a)\right) \left[P_l^m(\cos(b)) + (-1)^m P_l^{-m}(\cos(b))\right]^*
+\int_{0}^{t} K(s,u) f(u) du = \sum_{j=1}^{\infty} y_j(t) \int_{0}^{T} S_{jj}(u) f(u) du
+I_k := (-1)^k 2^k k! \; {\rm for}\; k > 0,\;\; I_0 := 1
+\exp\left[\frac{x}{2} \left(\ln\left(1+\sqrt{\frac{2}{\pi}} \, \frac{y}{x} \right) + i\arctan\left(\frac{\sqrt{\pi}}{2} \, \frac{y}{x} \right)\right)\right]
+a_n = \int_{0}^{1} \exp(-nx) \sin(2\pi n x) dx,\;\; b_n = \int_{0}^{1} \exp(-nx) \cos(2\pi n x) dx
+\frac{1}{\Gamma(\alpha)} \int_{0}^{\infty} t^{\alpha-1} L_p^q(xt) e^{-t} dt
+R_n(x) = \frac{\sin[(2n+1)\pi/2]}{\pi} \int_{0}^{x} K_0\left(\sqrt{x^2-t^2}\right) J_{2n+1}(t) dt
+3e^x\sin(2\pi y)\ln(5+4\cos(z))
+x^x(\ln(10+\sqrt{u}))^y\cos(3\pi v)
+(6-\tan^{-1}(w))^x\ln(7-2\sin(z))
+e^{\ln(10+u^v)}\sin(3\pi w)\cos(2\pi x)^y
+\left(\sqrt{5+\frac{1}{u^v}}\right)^x\ln(8+\cos(z))
+3\cdot 2^x\sin(2\pi y)\ln(9+4\cos(z))
+(5-\tan^{-1}(w))^x\ln(6-2\sin(z))
+\left(\sqrt{7+\frac{1}{u^v}}\right)^x\ln(8+\cos(z))
+\sin(3\pi w)\cos(2\pi x)^y\sinh^{-1}(z)
+(2-\tan^{-1}(w))^x\ln(5-2\sin(z))
+4\sqrt{3}\left(\sin(2\pi/15)\right)^3\cos^2(7\pi/12) = \pm 0.59
+\frac{\tanh^{-1}(\sin(x))+\coth^{-1}(\cos(x))}{\sqrt{1-\sin^2(x)}-\sqrt{1-\cos^2(x)}} = x
+(-1+i\sqrt{3})^6 - (5+3i)^4 = 712 + 5856i
+e^{-0.5}\left(4!\right)^3\sin(\pi/8) = 9.18
+\frac{\sinh^{-1}(\cosh(x))-\tanh^{-1}(\sinh(x))}{\cosh(x)\tanh(x)} = x
+2\left(2^{\frac{2}{3}}\right)^3 + 7\sqrt[3]{10} - \pi\csc(\pi/8) = 44.59
+\sin(x)\cos^2(x)+\cos(x)\sin^2(x)-\sin(x)\sin^2(x) = \sin(2x)
+i^i + \sinh(\ln(x)) - e^{\pi/3} = x
+\frac{2\tan^{-1}(\sin(x))-\tan^{-1}(2\sin(x)\cos(x))}{\sqrt{1-4\sin^2(x)}+\sqrt{1-4\cos^2(x)}} = \pi/2 - x
+2^3\ln(\sinh(x)^2) + 3\tan^{-1}(\sin(x)\cos(x)) = y
+y(x) = \sum_{n=1}^\infty (-1)^n \frac{x^{2n-1}}{2n \left(n! \right)^2}
+f(z) = \int_0^\infty \frac{e^{-zt} - 1}{t^2} dt
+\nabla \cdot (\mathbf{D} \times \mathbf{B}) + \frac{\partial}{\partial t}(\nabla \cdot \mathbf{E}) = 0
+G(x,y) = \int_0^\infty K_0(\sqrt{x^2+y^2-r^2}) J_0(r \sqrt{x^2+y^2}) r dr
+\text{erf}(x) = \frac{2}{\sqrt{\pi}} \int_0^x e^{-t^2} dt
+P(\alpha,\beta,n) = \frac{n!}{(\alpha+\beta)^n} \sum_{k=0}^n \frac{\Gamma(n+1)\Gamma(k+\beta+1)\Gamma(n-k+\alpha+1)}{k!\Gamma(n-k+\alpha+\beta+1)}
+C_F(x) = \pi^{-s/2} \Gamma(s/2) \zeta(s,1-ix) \zeta(s,1+ix)
+\Phi(a,b,z) = \frac{\Gamma(b)}{\Gamma(a)} \int_0^1 t^{a-1} (1-tz)^{-b} dt
+F(\alpha,\beta;c;x) = \sum_{n=0}^{\infty} \frac{(\alpha)_n (\beta)_n}{n! (c)_n} x^n
+\Psi(z) = -\gamma + \sum_{k=2}^\infty (-1)^k \frac{\zeta(k)}{k} z^{-k}
+\sum\limits_{n=1}^{\infty} (-1)^n {2n-1 \choose n}^2 \frac{(6n)!}{(3n)!(2n+1)!}
+f(x) = x^3 - 3\cosh(x) + e^{-4x}\sin(7x)
+\int_0^\infty \frac{x^{3}e^{-x}}{\left(1+\frac{x}{a}\right)^2 \left(1+\frac{x}{b}\right)} dx
+g(z) = z^5 + 3\cos(\bar{z}) - 2i\sinh(z^2)
+\operatorname{erf}(x) = \frac{2}{\sqrt{\pi}} \int_0^x e^{-t^2} dt
+\int_0^\infty e^{-t}\cos(at) d t = \frac{a}{2}\left(\frac{1}{a^2+1}-\tanh^{-1}\left(\frac{a}{a^2+1}\right)\right)
+f(x,y) = x^3 y \sin(xy) - y^4 e^{3x}
+\nabla\cdot (\mathbf{A} \times \mathbf{B}) = B_n \left(\frac{\partial A_t}{\partial x_m} - \frac{\partial A_m}{\partial x_n}\right)
+f(z) = (1-z^2)(1+z^2)^3 + z\bar{z}^2(1-\bar{z}^2)^4
+\det \begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{n1} & a_{n2} & \cdots & a_{nn} \end{pmatrix} = \sum\limits_{\sigma\in S_n} (-1)^{\sigma} a_{1\sigma(1)}a_{2\sigma(2)}\cdots a_{n\sigma(n)}
+\left(4\cos^{-1}\left(\sin\frac{\pi}{12}\right)+3\tanh^{-1}\left(e^{-\pi/8}\right)\right)\left(5+\sqrt[3]{64-27\left(5-\sqrt{216+40\sqrt{64-27\left(5-\sqrt{216+40\sqrt{64-27\left(5-\sqrt{216+40\sqrt{64-27\left(5-\sqrt{216+\cdots}\right)}\right)}}\right)}}\right)}\right)
+\frac{\pi}{32}\cdot 2^{\sinh^{-1}(\coth(\tan^{-1}(e^{i})))}+(-1)^{\ln(|x|)/\log_{5/4}(7/5)}+\cos\left(3\arctan\left(\sqrt{\frac{8}{\pi}}\cdot\ln\left|\sinh\left(\frac{2}{3}\tan\left(\pi\sqrt[3]{1+i\sqrt{3}}-\pi i/6\right)\right)\right|\right)\right)
+\sum_{k=1}^{999}{\left(5+\frac{\sin\left(\cosh^{-1}(\sin\left(\pi/10^k\right))\right)}{\sqrt[4]{e^{\sin\left(\pi/2+i\arctan\left(\tan^{-1}\left(\sin\left(\pi/10^k\right)\right)\right)}}\cdot\ln\left(5+\frac{1}{\cosh^{-1}(\sin\left(\pi/10^k\right))}\right)}\right)^2}
+\prod_{j=1}^{888}{\left(3+\frac{\cos\left(\cosh^{-1}(\sin\left(\pi/2-i\arctan\left(\tan^{-1}\left(\sin\left(\pi/10^j\right)\right)\right)})\right)}{\sqrt[4]{e^{\sin\left(\pi/2+i\arctan\left(\tan^{-1}\left(\sin\left(\pi/10^j\right)\right)\right)}}\cdot\ln\left(5+\frac{1}{\cosh^{-1}(\sin\left(\pi/10^j\right))}\right)}\right)^3}
+\lim_{n\to\infty}{\int_{0}^{1}{\frac{\ln\left(|x|^{\sin\left(\cot^{-1}(\tan^{-1}(\sqrt{2}/(1+i\cos(\pi/4))))}\right)}}{\sqrt[3]{e^x-\cos(x)}}dx}
+\int_{0}^{\infty}{\frac{\sin\left(\ln(|x|)^{\sin\left(\cot^{-1}(\tan^{-1}(\sqrt{2}/(1+i\cos(\pi/4))))}\right)}}{\sqrt[5]{e^x-\cos(x)}}dx}
+\sum_{k=0}^{\infty}{(-1)^k{\left(3+\frac{\sin\left(\cosh^{-1}(\sin(\pi k/2))\right)}{\sqrt[4]{e^{\sin\left(\pi/2+i\arctan\left(\tan^{-1}\left(\sin(\pi k/2)\right)\right)}}\cdot\ln\left(5+\frac{1}{\cosh^{-1}(\sin(\pi k/2))}\right)}\right)^3}
+\prod_{j=0}^{\infty}{\left(3+\frac{\cos\left(\cosh^{-1}(\sin(\pi j/2+i\arctan\left(\tan^{-1}\left(\sin(\pi j/2)\right)\right)))\right)}{\sqrt[4]{e^{\sin\left(\pi/2+i\arctan\left(\tan^{-1}\left(\sin(\pi j/2)\right)\right)}}\cdot\ln\left(5+\frac{1}{\cosh^{-1}(\sin(\pi j/2))}\right)}\right)^2}
+\sum_{k=0}^{999}{\int_{0}^{\infty}{x^3{\left(5+\frac{\sin\left(\cosh^{-1}(\sin(\pi k/2+i\arctan\left(\tan^{-1}\left(\sin(\pi k/2)\right)\right)))\right)}{\sqrt[4]{e^{\sin\left(\pi/2+i\arctan\left(\tan^{-1}\left(\sin(\pi k/2)\right)\right)}}\cdot\ln\left(5+\frac{1}{\cosh^{-1}(\sin(\pi k/2))}\right)}\right)^2}dx}
+\prod_{j=0}^{888}{\int_{0}^{\infty}{x^4{\left(3+\frac{\cos\left(\cosh^{-1}(\sin(\pi j/2+i\arctan\left(\tan^{-1}\left(\sin(\pi j/2)\right)\right)))\right)}{\sqrt[4]{e^{\sin\left(\pi/2+i\arctan\left(\tan^{-1}\left(\sin(\pi j/2)\right)\right)}}\cdot\ln\left(5+\frac{1}{\cosh^{-1}(\sin(\pi j/2))}\right)}\right)^3}dx}
+D(z) = \frac{1}{2\pi}\int_{-\infty}^{\infty} f(\xi)\left[\frac{J_0(|\zeta|r)}{r}-\mathrm{i} J_1(|\zeta|r)\frac{\zeta}{|\zeta|r}\right]\exp\left[\mathrm{i}(\theta+\xi)\right]\,d\xi
+K(z) = \frac{1}{2\pi}\int_{-\infty}^{\infty} f(\xi)\left[\frac{J_0(|\zeta|r)}{r}-\mathrm{i} J_1(|\zeta|r)\frac{\zeta}{|\zeta|r}\right]\exp\left[\mathrm{i}(\theta+\xi)\right]\,d\xi-\int_{-\infty}^{\infty} f(\xi) H_0^{(1)}(|\zeta|r) \exp\left[\mathrm{i}(\theta+\xi)\right]\,d\xi
+P(z) = \frac{2}{\pi}\int_0^\infty\frac{x\sin(x)f(x)}{x^2-t^2}dx
+Q(z) = -\frac{2}{\pi}\int_0^\infty\frac{x\cos(x)f(x)}{x^2-t^2}dx
+S(z) = \frac{1}{2\pi}\int_{-\infty}^{\infty} \exp(\mathrm{i}\xi t)\left[\frac{\sin(|\zeta|r)}{\sinh(|\zeta|r)}-\mathrm{i}\cos(|\zeta|r)\frac{\sinh(\theta+\xi)}{|\zeta|r\sinh(|\zeta|r)}\right] f(\xi) d\xi
+T(z) = \frac{1}{2\pi}\int_{-\infty}^{\infty} \exp(\mathrm{i}\xi t)\left[\frac{\sin(|\zeta|r)}{\sinh(|\zeta|r)}+\mathrm{i}\cos(|\zeta|r)\frac{\sinh(\theta+\xi)}{|\zeta|r\sinh(|\zeta|r)}\right] f(\xi) d\xi
+X(z) = \frac{1}{2\pi}\int_{-\infty}^{\infty} \exp(\mathrm{i}\xi t)\left[\frac{\cos(|\zeta|r)-1}{\sinh(|\zeta|r)}+\mathrm{i}\frac{\sin(|\zeta|r)}{\sinh(|\zeta|r)}\right] f(\xi) d\xi
+Y(z) = \frac{1}{2\pi}\int_{-\infty}^{\infty} \exp(\mathrm{i}\xi t)\left[\frac{\cos(|\zeta|r)-1}{\sinh(|\zeta|r)}-\mathrm{i}\frac{\sin(|\zeta|r)}{\sinh(|\zeta|r)}\right] f(\xi) d\xi
+U(z) = \frac{2}{3\pi}\int_0^\infty\frac{x^2f(x)(x^2+t^2)-tf(t)(x^2-t^2)}{(x^2-t^2)^2}dx
+V(z) = \frac{2}{3\pi}\int_0^\infty\frac{xf(x)(x^4-t^4)-tf(t)(x^4+3x^2t^2-t^4)}{(x^2-t^2)^3}dx
+z = x + \mathrm{i} y
+r = \sqrt{x^2+y^2}
+\theta=\tan^{-1}(\frac{y}{x})
+\zeta = x - \mathrm{i} y
+z
+f(t)
+\mathrm{i}
+J_0(x)
+H_0^{(1)}(x)
+\sinh(x)
+\cosh(x)
+\tanh(x)
+\left(x^2 + y^2 - z^3\right)^{\frac{2}{5}} \sinh^{-1}\left(\sqrt{x^2 + y^2} e^{\frac{\pi z}{2x}}\right)
+D_y f(x, y) = \lim_{h \to 0} \frac{f(x, y+h) - f(x, y)}{h}
+\int_0^\infty x^3 e^{-x^4} \cos(x^2) \, dx
+g(x) = \frac{\sinh(\tan^{-1}(x))}{\ln\left(x^2 + \sqrt{x^4 + 1}\right)}
+\sum_{k=1}^{n} (-1)^k \binom{2n}{2k-1} x^{2k}
+\int_0^1 \frac{\sin(\pi x) - x\cos(\pi x)}{x(1-x)} \, dx
+h(x, y, z) = \int_{-\infty}^z e^{-(x-a)^2 - (y-b)^2 - (z-\tilde{c})^2} \, dz
+\det\left[\begin{matrix} x_{11} & \cdots & x_{1n} \\ \vdots & \ddots & \vdots \\ x_{n1} & \cdots & x_{nn} \end{matrix}\right]^2 \cos(\arctan(x_{11}))
+\int_0^\infty e^{-x} x^\alpha K_{\beta}(x) \, dx
+f(x, y, z) = \int_0^\infty u^{2\alpha+1} J_\alpha(u) H_\beta^{(1)}(uz) e^{-ux-uy} \, du
+y(t) = \left(\dfrac{2}{3}\right)^x \cos(4\pi t)\sinh(e^t) - \int_0^{\infty} \dfrac{x^2}{1+x^3} dx
+f(x, y, z) = \sum_{k=0}^{n-1}\left(\dfrac{1-\cos\left(k\pi/n\right)}{2}\right)^x\sin^y\left(k\pi z/n\right)
+\lim_{x\to\infty} \left(\sqrt[3]{e^x + x^2} - x\right)\left(\dfrac{1+\cos(x^3)}{x}\right)^x = 0
+g(z) = \dfrac{1}{2\pi i} \int_{\gamma} \dfrac{\sinh(w)\cosh(w+iz)}{\sinh^2(w)} dw,
+\gamma
+\text{Im}(z) > 0.
+F(x, y) = \int_0^1 \dfrac{\sqrt[3]{x^2+y^2-xy\cos(t)}} {(x^2-y^2)\sin(t)} dt
+h(x) = \sum_{n=1}^{\infty} (-1)^n\left(\dfrac{1}{n}\right)^{x} \dfrac{\tanh^{-1}(n)}{2}
+j(x, y) = \int_0^1 \dfrac{\sqrt[3]{x^2+y^2-xy\cos(t)} - \sqrt[3]{x^2+y^2+xy\cos(t)}} {(x^2-y^2)\sin(t)} dt
+K(s, t) = \int_0^1 \dfrac{\left(\ln\left[\dfrac{1+\sqrt{1-sx^2}}{1-\sqrt{1-sx^2}}\right]\right)^t}{x\sqrt{1-sx^2}} dx
+L(x, y) = \int_0^{\infty} e^{-zt} \sinh(xt) dt,
+z > 0.
+M(x, y) = \sum_{n=1}^{\infty} (-1)^n\left(\dfrac{1}{n}\right)^{x} \dfrac{\tanh^{-1}(n)}{2} \sinh\left(ny\right).
+x_1 = \frac{(-1)^{2p+1}\sqrt[3]{2^4\cdot 5\cdot 7} + e^{\pi i/6} \left(-\sin(3\pi x) + \cos(\tfrac{7}{24}\pi) + \tan^{-1}(\sec(x))\right)^2}{9\ln(1+e^x)\sqrt[4]{27}}\quad
+f(z) = \sum_{n=0}^{\infty} \frac{(-1)^n (2n)!}{(2^n n!)^2} z^{2n}\quad
+g(x,y) = x\sin(x)\cosh^{-1}(\sinh(y)) + y\cos(x)\coth^{-1}(\csc(y))\quad
+h(t) = \int_0^1 e^{st} \left(\frac{1-e^{-st}}{t}\right)^2 dt\quad
+I(n) = (-1)^n \binom{2n}{n}^2 (4n+1)\quad
+J(a,b,c,d) = \sum_{r=0}^{n-1} \frac{(nr+a)(nr+b)(nr+c)(nr+d)}{r!(n-1-r)!}\quad
+K(x,y) = x\ln\left(\frac{\sinh(x^2+y^2)}{\sinh(x^2-y^2)}\right) + y\arctanh\left(\tanh(x^2)\tanh(y^2)\right)\quad
+L(n,k) = (-1)^n n!\binom{n}{k}^2\binom{2k}{k}\quad
+M(a,b,c,d) = \int_0^1 e^{st} (1-e^{-st})^{-a} (1+e^{-st})^{-b} (1-e^{-st})^{-c} (1+e^{-st})^{-d} dt\quad
+N(x,y) = x\arctanh(\tanh(x)\tanh(y)) + y\ln\left(\frac{\sinh(x^2+y^2)}{\sinh(x^2-y^2)}\right)\quad
+2\sin(\pi/4 + \tan^{-1}(e^x))\cosh(3x + x^2) = \sqrt{2}\left[ \sin\left(\frac{\pi}{8} + \frac{e^x}{2}\right)\cosh\left(3x+\frac{x^2}{2}\right) - \sin\left(\frac{7\pi}{8} + \frac{e^x}{2}\right)\sinh\left(3x+\frac{x^2}{2}\right) \right]
+D_n = \sum_{k=1}^{n-1} \left[ (-1)^k\binom{2n}{n-k}^2\cos^{2n}(\pi k / n) + (2^n - 1)(-1)^k\binom{2n}{n+k}^2\sin^{2n}(\pi k / n) \right]
+X_n = \int_{0}^{n} x^4(n-x)^5 e^{-x} dx + \int_{n}^{\infty} x^7(x-n)^6 e^{-x} dx
+f(x) = \frac{1}{3}\left[ \sinh\left(\sqrt{2x+x^2} - x\right) - \sinh\left(\sqrt{2x+x^2} + x\right) \right]
+P(x) = (1-x)^x e^{-x}(1+\gamma + 2\ln(1-x))
+g(z) = z^3(z^3 - 1)^5\sinh(\pi(z^3+z^{-3}))e^{i(z^9+z^{-9})}
+S_n = \sum_{k=0}^{n} (2k+1)\binom{n}{k}^4(-1)^k
+f(x) = x\sinh(x) + \cosh(x)\int_x^{\infty}\frac{\sinh(t)}{t^2}dt - \int_x^\infty\frac{e^{-t}}{t^2}dt
+R(x) = \sum_{k=1}^{n}(-1)^k k^{2n}\cos(2k\pi/n)
+h(x) = (x^3+1)^6e^{-x}(\sinh(x^3+x^{-3}) - \sinh(x^3-x^{-3}))
+2\sinh^{-1}\left(x\sqrt{1+\frac{\cosh^{-1}(x)}{2}}\right)-\ln\left[x+\sqrt{x^2-1}+\sqrt{(x^2-1)(x^2+1)}\right]=y
+\frac{d}{dx} \int_0^x f(t) dt = f(x) - xf(x) + \int_0^x tf(t)dt
+D_t^n u(x,t) = (-1)^n n! \mathcal{F}^{-1}\left[\frac{(-i\xi)^n}{\left[1-\frac{i\xi}{w(t)}\right]^{n+1}} \mathcal{F}[u](t,\xi)\right]
+\sum_{k=0}^{n} {n\choose k} x^k y^{n-k} = (x+y)^n
+J_n(z) = \frac{1}{\pi}\int_0^\infty (\cosh w - \cos z w^{-1})w^{-n-1} dw
+\det\left[e^{\lambda_i \tau} \delta_{jk}\right]_{n\times n} = e^{\sum_{k=1}^n \lambda_k \tau}
+\frac{d}{dx} \sin^{-1}(x) = \sqrt{1-x^2}
+D_t^n f(t) = (-i)^n \mathcal{F}^{-1}\left[\xi^n \hat{f}(\xi,t)\right]
+\int_{-\infty}^\infty \frac{\sin x}{x} dx = \pi
+e^{z\ln z} = z^z
+x_1 = \dfrac{e^{\sin(\pi/2)} - 3\cos^3(5x)\tanh^{-1}(\sec(7x))}{4\ln(x^2 + 1) - x^4}
+\dfrac{\Gamma(n+1)\left(\int_0^\infty e^{-t}t^n\,dt\right)^2}{\Gamma(2n)} = \dfrac{1}{(2n)!}\prod_{k=1}^{2n}\dfrac{(2k-1)^2}{4k-1}
+A_n = 2^n\left(\int_{0}^1 x^{2^n}(1 - x^ {2^n})^{-2}\,dx\right)^2
+\lim_{x\to 1} \dfrac{\ln(x)\arctan(\sqrt{x-1})}{\log_e(x) - \sinh^{-1}(\sqrt{x-1})} = 0
+f(x) = \sum_{n=1}^{\infty}\dfrac{(-1)^n(2n)!}{n!(n^2+n)(2n)!}x^{2n}
+g(x) = \lim_{y\to x}\dfrac{\Gamma(1+x)\Gamma(1-y)}{\Gamma(1-x)\Gamma(1+y)}
+\dfrac{1}{\sinh(\pi/2)} = \sum_{n=0}^{\infty} \dfrac{(4^n)(3^n)!}{n!(2n+1)!(6n+1)^2}
+h(x) = \int_0^\infty e^{-x\sinh(t)}\cosh(2t)\sin(\pi t)\,dt
+\dfrac{1}{\Gamma(x)} = \sum_{k=0}^{\infty}\dfrac{(k+x)(k+x-1)\cdots(k+1)}{k!} \dfrac{\sin(\pi k/2)\sin(\pi x/2)}{\pi^k}
+\dfrac{e^{i\theta}}{\Gamma(z)}\int_0^\infty e^{-t}\cosh(zt)t^x\,dt = \sum_{n=0}^{\infty} \dfrac{(z^2+1)^n}{2^nx!\sin(\pi x/2)}
+\displaystyle y(x) = \int_0^x f(t) \sin(\pi t)^2 \, dt + x^3 e^{-x} \cos(3\pi x)
+z(x) = \sqrt[3]{x^5 (1+\ln x)^2} + \dfrac{e^{x/2}}{1+x\tanh(\sinh(x))}
+\displaystyle g(x,y) = \dfrac{\sin(\cos(xy))}{1-\tan(x)\tanh(y)} - e^x\ln|\sin(x)|
+f(x,y) = (x^2+y^2)^2 (x^3-y^3)^5 \sin^{-1}(\tan(x^2+y^2))
+\displaystyle h(t) = t^7 e^{-t/2} (\cosh(t^6)+e^t\ln|\sin(t)|)
+j(x,y) = \dfrac{\sinh(\sqrt{x+y})}{\tan(x)\coth(y)} - x^3 y^5 \sin^{-1}(\tanh(\sqrt{x^2-y^2}))
+\displaystyle k(s,t) = s^3 t^4 (\sin(st)^2 + e^s\ln|\cos(t)|)
+l(u,v) = \dfrac{\tanh(\sqrt{u+v})}{\tan(u)\coth(v)} - u^5 v^7 \sin^{-1}(\tanh(\sqrt{u^2-v^2}))
+\displaystyle m(x,y,z) = x^4 y^6 z^8 (\sin(\cos(xyz))^2 + e^z\ln|\sin(x)|)
+n(r,s,t) = \dfrac{\tanh(\sqrt{r+s+t})}{\tan(r)\coth(s)\cot(t)} - r^7 s^9 t^5 \sin^{-1}(\tanh(\sqrt{r^2-s^2-t^2}))
+3\cdot2^4\log_5(81)-7\sin(\pi/6)+e^{\cos(\frac{2\pi}{3})}
+x^{-1}\left(1-\sqrt[3]{y^{2/3}-z}\right)^2+w^{0.5}\ln\left(\dfrac{\tan(\theta+\phi)}{4}\right)
+\sum_{k=1}^n \binom{2k}{k}3^k x^{2k-1}
+i\sqrt{1+\cot(t)^2}+j\csc(s)-k\sinh(\pi/2)\cosh(\ln(m))
+\dfrac{(a+b)^3}{a^2b}-\dfrac{\tanh^{-1}(\sec(\alpha))}{\sqrt{1-\sin^2(x)}}
+p\log_q(r)-s\ln\left(\exp(\pi/4)+e^{-\pi/4}\right)
+\sqrt[3]{v^{2/3}+u}-\dfrac{\tanh^{-1}(1-\cos(t))}{\sin(s)\cos^2(x)}
+m^2\sin^3(\theta)\ln(\tan(\pi/4)+1)-n\cosh(\pi/6)
+\dfrac{e^{i\cdot\arccos(j)}-k^3}{x^2+\sin(\alpha)^2}
+p\csc^2(\pi/6)+q\sinh(\ln(r))-\sqrt[4]{s}\cos(\theta+t)
+\displaystyle x_i = \frac{1}{2} \sum_{j=1}^n y_{ij} + \left( 1 - \frac{1}{n} \right) \bar{y}_i, \quad I = 1, \ldots, k
+\displaystyle D(x||y) = x_1 \log \left(\frac{x_1}{y_1}\right) + \cdots + x_n \log \left(\frac{x_n}{y_n}\right), \quad y_i > 0
+\displaystyle X_k = Y_{l-1} \cdot \sin^2(X_{l+1}) + Y_{m} \cdot \cos^2(X_{m+1})
+\displaystyle M(n, r) = \frac{n!}{r!(n-r)!}
+\displaystyle A_i^{-1} = (a_{i1}, a_{i2}, \ldots, a_{in})^T
+\displaystyle \mathbf{B}^T \cdot \mathbf{B} = \begin{bmatrix} b_{11}^2 + b_{12}^2 & \cdots & b_{1n}^2 \\ \vdots & \ddots & \vdots \\ b_{m1}^2 & \cdots & b_{mn}^2 \\ \end{bmatrix}
+\displaystyle \det(A) = a_{11}a_{22}\ldots a_{nn} - a_{12}a_{21}\ldots a_{n-1, n} + \cdots 
+\displaystyle f'(x) = \lim_{h\to 0} \frac{f(x+h)-f(x)}{h}
+\displaystyle \int_0^1 e^{x^2} dx
+\displaystyle \iint xy\, dA = \int_{x=-a}^a \int_{y=-\sqrt{a^2-x^2}}^{\sqrt{a^2-x^2}} xy\, dy\, dx
+x_{i+1} = x_i - h f\left(x_i, y_i\right) \quad \text{for the Euler method}
+y_{n+1} = y_n + \frac{h}{2}\left[3f\left(x_n, y_n\right) - f\left(x_n-h, y_n-h f\left(x_n, y_n\right)\right)\right] \quad \text{for the Heun method}
+z_{n+1} = z_n + h\left[f\left(x_n, y_n, z_n\right) + g\left(x_n, y_n, z_n\right)\tan^{-1}\left(\frac{r\left(x_n, y_n, z_n\right)}{s\left(x_n, y_n, z_n\right)}\right)\right] \quad \text{for a system of ODEs}
+w_{n+1} = w_n + h\left[f_1\left(x_n, y_n, z_n, w_n\right) + f_2\left(x_n, y_n, z_n, w_n\right)^3\cos\left(\frac{r_{10} \sin(w_n)}{s_{9}\cos(z_n)}\right)\right] \quad \text{for a system of ODEs}
+x_{i+1}^2 + y_{i+1}^2 = r^2 \quad \text{for the parametric equation of a circle}
+x_{i+1} = x_i + h\left[f(x_i,y_i) - g(x_i,y_i)\sin\left(\frac{\pi x_i}{L}\right)\cos\left(\frac{2\pi y_i}{H}\right)\right] \quad \text{for a parameterized curve}
+z_{n+1} = z_n + h\left[f\left(x_n, y_n, z_n, w_n\right) + g\left(x_n, y_n, z_n, w_n\right)^4\sin^2\left(\frac{r_{12} \cos(w_n)}{s_{8}\sin(z_n)}\right)\right] \quad \text{for a system of ODEs}
+x_{i+1}^3 + y_{i+1}^3 - 6x_{i+1}y_{i+1} = 27 \quad \text{for the equation of a triquadratic curve}
+w_{n+1} = w_n + h\left[f_1\left(x_n, y_n, z_n, w_n\right) + f_2\left(x_n, y_n, z_n, w_n\right)^5\cosh\left(\frac{r_{14} \sin(z_n)}{s_{7}\cosh(w_n)}\right)\right] \quad \text{for a system of ODEs}
+x_{i+1} = x_i - h f(x_i, y_i) + \frac{h^2}{2} f'(x_i, y_i) f(x_i, y_i) - \frac{h^3}{6} f''(x_i, y_i) f(x_i, y_i)^2 \quad \text{for the Euler-Cromer method}
+\displaystyle{x_2=\frac{-b\pm\sqrt{b^2-4ac}}{2a}}
+\displaystyle{y(t)=\int_{-\infty}^t f(u) h(t-u)\,du}
+\displaystyle{f(x,y)=x^3y^4e^{-xy}-\sin(\pi x)\cos(\pi y)}
+\displaystyle{\nabla\cdot\mathbf{F}(x,y,z)=\frac{\partial F_x}{\partial x}+\frac{\partial F_y}{\partial y}+\frac{\partial F_z}{\partial z}}
+\displaystyle{\int_{0}^1 \frac{\ln^3(x)}{x^4}\,dx=-0.26749}
+\displaystyle{g(s,t)=\sum_{n=0}^{\infty} \frac{(st)^n}{(n!)^2}}
+\displaystyle{D[\mathbf{u}]=\int_{\Omega} \nabla\mathbf{u}: \nabla\mathbf{v}\,dV}
+\displaystyle{\det(A) = A_{11} A_{22} A_{33} - A_{11} A_{32} - A_{21} A_{33} + A_{22} A_{31} + A_{31} A_{12} - A_{32} A_{11}}
+\displaystyle{\Gamma(s) =\int_0^\infty t^{s-1} e^{-t}\,dt}
+\displaystyle{f(x,y)=\sum_{i=1}^n \sum_{j=1}^m c_{ij} x_i^p y_j^q e^{-\alpha x_i-\beta y_j}}
+\displaystyle\int_{-\infty}^{+\infty} e^{-x^2}dx = \sqrt{\pi}
+f(x) = \frac{1}{2}\bigl[g(\sin x) + h(\cos x)\bigr]
+P(A | B) = \dfrac{P(B | A) P(A)}{P(B)}
+X_n = a_n + b_{2n} - c_{3n}
+f(x) = \dfrac{\sinh x}{\cosh x + C_1 \sinh x + C_2}
+g(z) = \sum_{n=0}^{\infty} a_n z^n
+\lim_{x\to\infty}\left(\dfrac{x-a}{x-b}\right)^x = 1
+\int_0^\infty\int_0^\infty\dfrac{e^{-(ax^2+by^2)}}{xy}dxdy = \pi/\sqrt{ab}
+e^{\sinh(z) + \pi\cos(x)} \left(\frac{1}{2} - \tanh^2(\sqrt{\ln(t)}) \right)^3
+\dfrac{(a+b)(a-b)}{2} \ln \left| \dfrac{\sin(c+d)}{\sin(c-d)} \right| + (ab)^{\cos(pq)}
+i^i \sinh^{-1}\left(\dfrac{e^t - e^{-t}}{2}\right) - W_0\left(\dfrac{x}{a} \cdot e^{-\frac{y}{b}}\right)
+\exp\left(\ln(z)^3 + 2\pi i \sqrt{\tanh(x)} \right) \cdot cosh(t) \sin(s)
+D_f(x,y) = \dfrac{|f(x+h)-2f(x)+f(x-h)|}{h^2}
+\sqrt{\dfrac{1+\cos(3x)}{2}} \cdot cosh\left(\sinh^{-1}\left(\dfrac{e^y - e^{-y}}{2}\right) \right)
+I_0(x) W_0(x) = \int_0^\infty K_1(xt) K_0(xs) t \, dt
+\tan\left(\dfrac{\pi}{4} + it\right)^2 \sinh^{-1}\left(\dfrac{e^z - e^{-z}}{2} \right)
+e^{i\ln(x)} = x
+I_{p,q}(a,b,c,d;x,y,z,w) =\int_0^\infty J_p(\sqrt{uv})J_q(\sqrt{st})e^{-\frac{1}{2}(u+v)} \cdot e^{-\frac{1}{2}(s+t)} \, du dv ds dt
+\large{x^4 - (y^2 + z\sin(t))^3 + \frac{\tan^{-1}(\sqrt{u})}{u^2} = 0}
+\displaystyle{\int_{0}^{1} \frac{(1-x)^3 \ln(1+x) - x^5}{\ln^2(x)} dx}
+\large{D_3(\alpha)(f)\Bigg[a,b\Bigg] = \frac{b-a}{h}\int_{0}^{1} B_3^\alpha(th) f(a+th(b-a)) h d\theta + \frac{b-a}{2h}\big[f(a+b)-2f((a+b)/2)\big]}
+\large{G_\nu(z) = \frac{1}{\Gamma(\nu)} \int_0^\infty t^{\nu - 1} e^{-zt} K_\nu(t) dt,\quad\Re(\nu)>0, \quad |\arg(z)|<\pi}
+\large{W_{n+1}(x) = -\frac{2}{n(n+1)} W_n(x) + \frac{2}{(n+1)(n+2)} xW_n(x), \quad n=0,1,2,\ldots}
+\large{\zeta(s, a) = \sum_{n=0}^\infty \frac{1}{(n+a)^s},\quad\Re(s)>1,\quad |\arg(a)|<\pi}
+\large{I_p^q (x) = \int_0^x I_{p-1}^{q-1}(t) K_{p-q}(2\sqrt{xt}) t^{p-1} dt, \quad p, q > 0}
+\large{\Gamma(s, x) = \int_x^\infty e^{-t} t^{s-1} dt,\quad\Re(s)>0}
+\large{L_p^q (x, y) = \int_0^\infty I_{p-1}^{q-1}(zt) z J_{p-q}(2\sqrt{xyz}) t^{p-1} dz, \quad p, q > 0}
+\large{\Phi(a, b; x) = \sum_{k=0}^\infty \frac{(a)_k (b)_k}{k! (c)_k} x^k,\quad\Re(c)>0,\quad |\arg(x)|<\pi}
+2\sin^3(x) + \cos^4(x)\left(\frac{1}{3}-\tan(x)^2\right) = 0
+\int_{-\infty}^{\infty} \exp(-x^2) x^3 \text{d}x - \frac{5}{8}\sqrt{\pi} = 0
+e^{(\ln(x))^3} + 3\cosh(x)\sinh^2(x) = x^4
+\sum_{n=1}^{\infty} \left(\frac{(-1)^n}{n^2}\right)^5 = (-1)^7\cdot\frac{\pi^5}{80}
+D_z\left[f(z)g(z)\right] = f(z)D_z[g(z)] + g(z)D_z[f(z)]
+\frac{d}{dx}\left[\ln(x^2+1)^3\right] - 3\sinh^{-1}(x^4) = \frac{0}{\sqrt{\pi-x^2}}
+J_\nu(z) = \frac{1}{\Gamma(\nu+1)}\int_0^z t^\nu \cos(t)\text{d}t
+\lim_{n\to\infty}\left[1+\frac{1}{2}+\cdots+\frac{1}{n}-\ln(n)\right] = \gamma
+e^{i\theta}\sin(\phi) + e^{-i\theta}\cos(\phi) = \sin(\theta-\phi)
+\sum_{k=0}^{n} {n\choose k}^3 (-1)^k = (-1)^n n(4n^2-n)/27
+\left(\sum_{k=1}^{n} a_k b_{k-1}\right)^2 - \frac{1}{2}\left(\prod_{j=1}^m (x_j^2 + y_j^2)\right)^{-1}
+D\left(\exp\left[\int_0^\infty \ln(1+t) dA(t)\right]\right)
+\lim_{n\to\infty} \frac{\sinh\left(\sum_{k=1}^n k!\right)}{\prod_{j=1}^{2n} j!}
+\int_{-\infty}^\infty f(x) e^{-i2\pi n x/L} dx \quad (n = 0, 1, 2, ...)
+F(a;b_1,b_2,\ldots,b_k;z) = \sum_{n=0}^\infty \frac{(a)_n}{(b_1)_n(b_2)_n\cdots(b_k)_n} z^n
+\left(\int_0^\infty x^{-\alpha}\sin\left(x^{\beta}\right)dx\right)^2
+e^{A B C D E F G H I J K L M N O P Q R S T U V W X Y Z} \equiv
+\frac{\sin(\pi n/m) \sinh(x_n) \sin(\pi m x_n/L)}{x_n \sinh(\pi mx_n/(L m)) \sin^2(\pi n/(2m))}
+x_1^2 + (x_2 - 2x_1)^2 = 4x_1(x_1-x_2) = y_1^2 + (y_2 + 2y_1)^2
+\left(\sum_{k=1}^n (-1)^k k! {n \choose k} a^{n-k} b^{k}\right)^3
+2\sinh(3\ln(5+2\sqrt{7}))+\frac{\cos(\pi/8)\sin(\pi/4)}{e^x-1}
+\sum_{k=0}^{10} {12 \choose k}\left(-\frac{7}{9}\right)^k x^{12-k}
+e^{\ln(5+4\cosh(\sinh^{-1}(3x)))+\sqrt{\pi/2}}-5\cosh^2(x^3)
+\int_{0}^{\infty} \frac{t^4}{\left(\sqrt{t^2+7}-5\right)^8} dt
+D_x[(4x^2+1)(2e^{-x}\sin(3x^3))]
+D_x
+\lim_{n \to \infty} \frac{\Gamma\left(\frac{n}{2}+5\right)}{\sqrt{\pi} n!\cosh(\ln(n+1))}
+F(-3/2, -3/2, 1; e^{-x})
+F
+\int_0^x \frac{t\sinh(4\sin(2\pi t))}{\cos(\sqrt{\tanh(t)^3})} dt
+(5+3\sin(\pi/8))^{-1}\ln\left[\csc\left(\frac{x}{2}+\frac{\pi}{16}\right)\right]
+\sum_{k=0}^{10} {15 \choose k}(-4)^k x^{15-k} \int_0^1 \left(t+\sqrt{7-4t}\right)^{12} dt
+\displaystyle \int_0^1\!\!\left(x^2e^{-x^3}+x^4\sin(x)\right)dx
+\displaystyle \sum_{n=1}^\infty\frac{(-1)^n}{2n-1}\binom{2n}{n}
+\displaystyle \lim_{x\to\infty}\left(\frac{\tan^{-1}(x)}{x}-\frac{1}{2x}\right)
+\displaystyle \prod_{k=0}^n (2k+1)\binom{n}{k}
+\displaystyle \int_0^1 x^x (-\ln x)^3 dx
+\displaystyle \sum_{k=0}^\infty (-1)^k\frac{(2k)!}{k!(k+1)!}x^{2k}
+\displaystyle \int_0^\pi \sin^5(x)\cos^5(x) dx
+\displaystyle \lim_{n\to\infty}\left(\frac{3^n-(2n)!}{2^n n!(n+1)^3}\right)
+\displaystyle \prod_{k=0}^n\frac{\Gamma(2k+1)\Gamma(k+\frac{1}{4})}{\Gamma(k+\frac{3}{4})}
+\displaystyle \int_0^1 x^x\sinh^{-1}(\ln x) dx
+\left(\dfrac{2x^3 - 5\sin(xy)\cosh(3z) + \sqrt[4]{x^2+y^2+z^2}\right)^2 e^{x-\pi/6}
+D = \dfrac{1}{\Gamma(a)} \int_0^\infty t^{a-1} (1+t)^{-(a+\alpha)} e^{-xt} \,dt
+\mathcal{L}\left\{\dfrac{q(t)}{p(t)}\right\} = \int_0^\infty f(s) e^{-ps} \, ds
+G(s) = (1-e^{-as}) \dfrac{b s}{s^2 + 2\zeta \omega_n s + \omega_n^2}
+C(t) = \int_{-\infty}^t R(t-\tau) I(\tau) \, d\tau
+\Phi(x) = \dfrac{\sqrt{2}\Gamma\left(\dfrac{1+x}{4}\right)\Gamma\left(\dfrac{3+x}{4}\right)}{2^{x/2}\pi}
+F_n(x) = (-1)^n n! \, L_n^{(n)}(x)
+\mathbf{C} = \begin{bmatrix} \cosh\theta & -\sinh\theta \\ - \sinh\theta & \cosh\theta \end{bmatrix}
+E(x) = e^x \left(\dfrac{1}{2} + \dfrac{1}{6} x - \dfrac{1}{36} x^2 + \dfrac{1}{216} x^3\right)
+\dfrac{\Gamma(x+1)}{\sqrt{2\pi}} = \lim_{n\to\infty}\dfrac{1}{\sqrt{n}} \, \sum_{k=0}^n e^{-\frac{(2k-n)^2}{2n}} x^k
+2\cos^3{\theta} + \sin{7\phi}\cos{10\psi} = x
+e^{x^2-y^2}\ln{(z-\sqrt{u})}^4 - \sinh^{-1}(\tan(t))^2 = y
+D_x[f(x,y)]_x = \lim\limits_{h\rightarrow 0} \frac{f(x+h,y) - f(x-h,y)}{2h}
+\int_0^\infty e^{-x^3} dx = g(\cos{\pi t}, \sin{\pi t})
+a_{mn} = (-1)^m\binom{n}{m}^2(2m)!\cdot(2n-2m)!
+z_k=\frac{(x+iy)^{(k+1)/2}}{k!(k+2)!!}
+(x+iy)^{(k+1)/2}
+(z^{1/2})^k
+\sum_{j=0}^{n-1}\binom{n}{j}^3(2j)!(-1)^j = \sqrt{\pi}~n!~\Gamma\left(\frac{n+1}{2}\right)
+J_m(x) = \frac{1}{\pi} \int_0^\pi \cos(m\tau - x\sin\tau) d\tau
+\begin{aligned} f(x,y) &= e^{xy}\left(\frac{\sin(x^2+y^2)}{x^2+y^2}\right)^3 \\ g(x,y) &= \int_0^\infty K_1(zt)~e^{-zt} dt \end{aligned}
+K_1
+\nabla\cdot(\mathbf{A}\times\mathbf{B}) = -\mathbf{A}\cdot(\nabla\times\mathbf{B}) + \mathbf{B}\cdot(\nabla\times\mathbf{A})
+\nabla
+\cdot
+\times
+D(u) = \frac{1}{2} \left(\nabla u^T : \nabla u - \nabla\cdot\big(|\nabla u|^2 I\big)\right)
+f(x) = \int_0^\infty \left[J_0(xy) - J_1(xy)\frac{\sin(x)}{x}\right]y^2 f_0(y)\,dy
+\mathbf{a} \cdot (\mathbf{b} \times \mathbf{c}) = \begin{vmatrix} a_1 & a_2 & a_3 \\ b_1 & b_2 & b_3 \\ c_1 & c_2 & c_3 \end{vmatrix}
+H(x, y) = x^2 y^2 (1 - x^2)^2 (1 - y^2)^2
+\det\begin{bmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \cdots & a_{mn} \end{bmatrix}
+u(x, y) = \int_0^\infty \left[J_0(xy) - J_1(xy)\frac{\sin(x)}{x}\right]y^2 e^{-y^2/2}\,dy
+\nabla^2 u = \sum_{i=1}^n \frac{\partial^2 u}{\partial x_i^2}
+F(x, y) = \int_0^1 \int_0^x f(t, s)\,dt\,ds
+\mathbf{A} = \begin{bmatrix} A_{11} & A_{12} & \cdots & A_{1n} \\ A_{21} & A_{22} & \cdots & A_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ A_{m1} & A_{m2} & \cdots & A_{mn} \end{bmatrix}
+V(x, y) = \iint\limits_D xy\,dA
+D(y(t)|x(0),u(\cdot)) = \int_0^T (y(t)-y_{sp}(t))^2 q(t) dt + \lambda \int_0^T (1-y(t))_+ y'(t)_- dt,
+X(n+1) = A X(n) + B u(n), \quad n = 0,1,\dots
+C(x) = \frac{\sinh(\beta x)}{\sinh(\beta L)} \int_0^L K(x,s) T(s) ds,
+\Delta(\mathbf{x}) = \left| \begin{bmatrix} \mathbf{A}_1 & \mathbf{B}_1 \\ \mathbf{C}_2 & \mathbf{D}_{21} \end{bmatrix} \right| + \left| \begin{bmatrix} \mathbf{A}_2 & \mathbf{B}_2 \\ \mathbf{C}_1 & \mathbf{D}_{12} \end{bmatrix} \right| - \left| \begin{bmatrix} \mathbf{A}_1 + \mathbf{A}_2 & \mathbf{B}_1 + \mathbf{B}_2 \\ \mathbf{C}_1 + \mathbf{C}_2 & \mathbf{D}_{12} + \mathbf{D}_{21} \end{bmatrix} \right|,
+P(x) = \frac{\Gamma(\alpha+\beta)}{\Gamma(\alpha)\Gamma(\beta)} \int_0^x t^{\alpha-1}(x-t)^{\beta-1} dt,
+y'(t) = a_0 + \sum_{k=1}^n [a_k \cos(k\omega_0 t) + b_k \sin(k\omega_0 t)],
+\mathbf{x}(t+\Delta t) = \mathbf{\Phi}(\Delta t)\mathbf{x}(t) + \mathbf{\Phi}(\Delta t)\int_{t}^{t+\Delta t}\mathbf{B}(\theta)\mathbf{u}(\theta) d\theta,
+F(z) = P(z) e^{-az} \left[ 1 - \frac{aP(z)}{z-p_i} + \frac{z}{2p_i}\left( \frac{1}{z-p_i}-\frac{1}{z-\bar{p}_i} \right) \right],
+f(x) = A \sin(\omega x+\phi) e^{-mx},
+\mathbf{H}(s) = \mathbf{C}(s\mathbf{I}-\mathbf{A})^{-1}\mathbf{B}.
+D_n = \sum_{k=1}^n (-1)^k {2n-2k+1 \choose k} 3^k
+X(t) = \frac{1}{4\pi^2}\int_{-\infty}^{\infty} S(f) e^{-i2\pi ft} df,
+S(f)
+x(t).
+z_k = \frac{(1+\sqrt{5})^k - (1-\sqrt{5})^k}{2^k \sqrt{5}}
+f(x) = \int_{-\infty}^{\infty} F(\omega) e^{-i2\pi x\omega} d\omega,
+F(\omega)
+f(x).
+\mathbf{A}(t) = \begin{bmatrix} a_{11}(t) & a_{12}(t) & \cdots & a_{1n}(t)\\ a_{21}(t) & a_{22}(t) & \cdots & a_{2n}(t)\\ \vdots & \vdots & \ddots & \vdots \\ a_{m1}(t) & a_{m2}(t) & \cdots & a_{mn}(t) \end{bmatrix}
+m\times n
+\mathscr{F}^{-1} \{ F(\omega) \}(\xi) = \int_{-\infty}^{\infty} F(\omega) e^{i2\pi \xi \omega} d\omega,
+\mathscr{F}^{-1}
+R(s) = \frac{\sum_{k=0}^{n} b_k s^k}{P(s)} = \frac{b_n}{s^n} + \frac{b_{n-1}}{s^{n-1}} + \cdots + \frac{b_0}{s^0},
+P(s) = \prod_{j=1}^{m} (s - p_j)
+\mathbf{C}(t) = \begin{bmatrix} c_{11}(t) & c_{12}(t) & \cdots & c_{1n}(t)\\ c_{21}(t) & c_{22}(t) & \cdots & c_{2n}(t)\\ \vdots & \vdots & \ddots & \vdots \\ c_{m1}(t) & c_{m2}(t) & \cdots & c_{mn}(t) \end{bmatrix}
+L(s) = \frac{1}{P(s)} = \frac{1}{\prod_{j=1}^{m} (s - p_j)},
+L(s)
+\mathbf{\Sigma}(t) = \begin{bmatrix} A(t) & B(t) \\ C(t) & D(t) \end{bmatrix}
+A(t),
+B(t),
+C(t)
+D(t)
+3\sin(\pi x^2+\cos^{-1}(\sqrt{7-6x}))-\frac{\partial}{\partial z}\left(e^{xy}\cdot \operatorname{Im}(\int_{-\infty}^{z}e^{-st}\ dt)\right)=0
+x(1+y)\ln\left(\sinh\left(\tan^{-1}\left[\sqrt{|z|}e^{\cos(3t)}\right]\right)\right)+y^2e^{2i\pi x}=5
+D_y\left(\int_{-\infty}^{\infty}\frac{\ln(\sin(xy))}{x^2+1}\,dx\right)=f(x,y)
+g(t)=\int_{0}^{t}e^{-s^2}\cos(st)\sin(st)\,ds+\sum_{n=0}^{\infty}(-1)^n\frac{t^{2n+1}}{(2n+1)!}
+h(x,y)=x^2 y^3\left(\int_{-\infty}^{x}e^{\cos(\pi t)}\,dt\right)\cdot \operatorname{Im}\left[\int_{-\infty}^{y}e^{-z^2}\,dz\right]
+i(u,v)=\sum_{k=0}^{\infty}\int_{0}^{\infty}(1+x)^k e^{-xu-xv}\,dx+\int_{-\infty}^{\infty}xe^{uv}Q_n(x)\,dx
+j(t)=\frac{1}{2\pi i}\oint_{C}e^{zt^3}\sin\left(\frac{z^2}{t^2}\right)\ dz+i\int_{0}^{\infty}(\cosh(y)-1)ye^{-yt}dy
+k(x,y)=x^4y^5-\sum_{n=0}^{\infty}\int_{-\infty}^{x}(n!)^2e^{-\pi nt}dt+\frac{1}{2\pi i}\oint_{C}e^{zt}\sinh(z)\ dz
+l(u,v)=\operatorname{Im}\left[\sum_{k=0}^{\infty}\int_{-\infty}^{u}(x-i)^ke^{-xv}\,dx+\frac{1}{2\pi i}\oint_{C}e^{zt^2}(\sin(z)-iz)dz\right]
+m(x,y)=x^3y^4-\sum_{n=0}^{\infty}\int_{-\infty}^{x}(-1)^ne^{-\pi nty}dt+\frac{1}{2\pi i}\oint_{C}e^{zt}(\sinh(z)-i z)dz
+R(s) = \dfrac{N(s)}{D(s)} = \dfrac{\sum_{k=1}^{m} a_k s^k + b_m}{a_0 + \sum_{k=1}^{n} a_k s^k}
+f(x) = \lim_{\substack{h \to 0 \\ n \to \infty}} \left[ \dfrac{2}{\pi} \int_{-\pi/2}^{\pi/2} \dfrac{\sin^n(x+h)}{\sin^n(h)} \, d\theta \right]^n
+\begin{aligned} I_1 & = \int_{0}^{1} x^2 e^x \, dx \\[4pt] I_2 & = \int_{-\infty}^{\infty} \dfrac{x^2}{e^x - 1} \, dx \\[4pt] I_3 & = \int_{0}^{1} \sin(\pi x) \cos(2\pi x) \, dx \end{aligned}
+X(s) = \mathscr{L}\{x(t)\}(s) = \dfrac{\beta}{\beta - s}
+\beta > 0
+\varphi(z) = \int_{-\infty}^{\infty} f(\xi) \, \Phi(z, \xi) \, d\xi
+f
+\Phi
+T_n(x) = \frac{1}{2^n n!} \sum_{k=0}^{n} (-1)^k {n + k \choose 2k} (2x)^{n-k}
+\det(A) = \sum_{\sigma \in S_n} \sgn(\sigma) \prod_{k=1}^{n} A_{k, \sigma(k)}
+S_n
+n
+\sgn
+J_\nu(x) = \sum_{k=0}^\infty \frac{(-1)^k}{k!\Gamma(\nu+k+1)} \left(\dfrac{x}{2}\right)^{\nu+2k}
+\cosh^{-1}(x) = \log(x + \sqrt{x^2 - 1})
+F(s) = \dfrac{\sinh(\pi s)}{\pi s}
+\left(\sum_{k=1}^{n} \binom{2k}{k}\right)^2 \cdot \prod_{j=1}^m \sin^2\left(\frac{\pi j}{2^k}\right)
+e^{i\theta}\sqrt{(x^2+y^2)(z^2-1)}\int_{\mathbb{C}}\dfrac{f(w)g(\bar w)}{(1+|w|^2)^3}dw
+\prod_{j=1}^m \cosh\left(\frac{\pi j}{2^k}\right) \cdot \sum_{n=0}^\infty (-1)^n \binom{2n}{n} (a^2+b^2)^n
+\lim_{x\to\infty}\left(x+\sinh(x)\right)^{i\pi/2-\frac14}
+\frac{\Gamma(n+1)}{\Gamma(m)}\int_0^\infty \frac{t^m}{(\cosh(t)-a)(1-e^{-nt})}dt
+e^{x\cos(y)} \cdot \sin\left(\sqrt[4]{x^2+y^2} + x\sin(y)\right)
+\sum_{k=0}^n \binom{n}{k}\cosh\left(k\arctan\left(\frac{\tan(x)-1}{\tan(x)+1}\right)\right)
+e^{-i\pi/4} \int_0^\infty e^{-x}J_m(2\sqrt{xy})dy
+\lim_{n\to\infty}\left[\left(1+\frac{x}{n}\right)^n - 1\right] - nxe^{-nx}
+a^x \cdot b^{-y} + c^{zx} \cdot d^{-zy}
+D(x) = \sum_{k=-\infty}^\infty (-1)^k \binom{x}{2k} x^2 k!
+f(x) = \frac{1}{\Gamma(x)} \int_0^\infty t^{x-1} e^{-t} (e^t - 1)^2 dt
+g(x, y) = \sum_{k=-\infty}^\infty \binom{x}{k} \binom{y}{n-k} (-1)^{k+n}
+h(x) = \lim_{n\to\infty} \frac{(-1)^n}{n!} \int_0^\pi (\sin t)^x (\cos t)^n dt
+I(x, y) = \int_0^1 \frac{t^x (1-t)^y}{\left[1 - 2t\cos(\pi/3)\right]^{3/2}} dt
+J(x, y) = \int_{-\infty}^\infty e^{-t^4} t^x (1 + t^2)^y dt
+K(x, y) = \sum_{k=0}^n (-1)^k \binom{x}{k} \frac{(3/2)_k}{(-1/2)_k k!}
+L(x, y) = \int_0^\infty \frac{\sin(xt)}{t^y (e^t - 1)^x} dt
+M(x, y) = \sum_{k=-\infty}^\infty (-1)^k \binom{x}{2k} \frac{(3/2)_k}{(1/2)_k k!}
+N(x, y) = \int_0^\pi (\sin t)^x (\cos t)^y \left[ \frac{e^t - 1}{t}\right] dt
+\begin{aligned} &3x^2+5xy+\dfrac{17}{2y^3}-\sqrt{2}z^{10}\sin(4\pi x)\cosh(e^y)\\ &\qquad = 12 \end{aligned}
+e^{\ln(\sin(\tan^{-1}(x)))-\sec(\cot(z))}+3\sqrt[5]{xy^2z^3}\cos(2\pi x^4y)\sinh(e^z)=0
+\dfrac{2\sin(2\pi x)\cos(3\pi y)+4x\sin(7\pi z)-2xyz^2e^{-y}}{(x^2+y^2)(1+\cos(8\pi x))}=0
+-\dfrac{3\sinh(\ln(x))}{x^3}-\dfrac{5\cosh(y^2)}{y^2}+7xyz^3e^{-x}\cos(yz)=0
+\dfrac{5\cos(6\pi x)\sin(9\pi y)-2x^2y^2z\sinh(w^2)}{(\sin(12\pi x)\cos(8\pi y))^{\frac{3}{4}}}=0
+-\dfrac{5\sinh(x^2y^2)\cosh(z^3)-2xyze^{-z}}{(\sin(x)\cos(y))^2}=0
+\begin{aligned} &5\sin(4\pi x)\cosh(e^y)+2\sqrt[3]{xy^2}\sin(6\pi z)\\ &\qquad -\dfrac{\sinh(\ln(x))}{x^{10}}= 12 \end{aligned}
+\begin{aligned} &-3\cos(4\pi x)\sinh(e^y)-5xyz^2\sin(7\pi z)\\ &\qquad +\dfrac{5\sinh(\ln(x))}{x^3}\cos(y^2)= 0 \end{aligned}
+\begin{aligned} &-\dfrac{\sinh(x^2y^2)}{x^3y^2}-\dfrac{5\cosh(z^3)}{z^2}\\ &\qquad +7xyze^{-x}\sin(yz)\cos(w)= 0 \end{aligned}
+\begin{aligned} &-\dfrac{\cosh(\ln(x))}{x}-\dfrac{5\sinh(y^2)}{y^2}\\ &\qquad +2xyze^{-y}\sin(xz)\cosh(w)= 0 \end{aligned}
+\displaystyle{\left[ \sum_{k=1}^{n} (-1)^k \binom{2k}{k} \sinh(kx) \right]_{x=0}^{x=L}}
+\displaystyle{\int_0^\infty \frac{e^{-t/a}-e^{-t/b}}{t^3} dt}
+\displaystyle{\frac{\Gamma\left(\frac{5}{4}\right)}{\Gamma\left(\frac{1}{4}\right)} \int_0^{\infty} x^{\frac{1}{2}} K_{\frac{1}{2}}(x) e^{-ax} dx}
+\displaystyle{\sum_{m=1}^{n-1} \sum_{k=1}^{n-m} (-1)^k \binom{n-1}{m-1} \binom{n-m}{k} \cos(m\theta) \sin(k\phi)}
+\displaystyle{\int_0^\infty e^{-ax} J_\nu(x) x^{\alpha} dx}
+\displaystyle{\int_{-\pi}^{\pi} \frac{e^{ik\theta}}{\left[ 1+\left(\frac{x}{a}\sin\theta\right)^2+\left(\frac{y}{b}\cos\theta\right)^2 \right]^\beta} d\theta}
+\displaystyle{\int_{-\infty}^\infty dx \int_{-\infty}^\infty dy \, e^{-ax^2-by^2+cxxy} J_\nu(xy) }
+\displaystyle{\frac{1}{4 \pi^2} \int_0^\infty k dk \int_{-1}^{1} \int_{-1}^1 K_0\left(\sqrt{ab} k \rho\right) I_0\left(kr\right) e^{-i k z} \sin\theta_a \sin\theta_b \, d\theta_a d\theta_b}
+\displaystyle{\int_{-\infty}^{\infty} dx \int_{-\infty}^{\infty} dy \, e^{-ax^2-by^2-czx} \frac{J_\nu(xy)}{y^\gamma}}
+\displaystyle{\sum_{m=1}^{n-1} \sum_{k=1}^{n-m} (-1)^k \binom{n-1}{m-1} \binom{n-m}{k} \, \cos\left( m \theta_a + k \theta_b \right)}
+\displaystyle{\left(\sum_{k=1}^n k^2 x_k\right)\left(\prod_{i=1}^m (a_i + b_i)^{c_{im}}\right)^{-3/2}\sqrt[4]{e^{i\pi} + \tanh(z^5)} = y}
+\displaystyle{\int_{-\infty}^{\infty} x^2 e^{-x^4} dx - \lim_{n\to\infty} \left(\sum_{k=1}^n k^{-\frac{3}{2}} cos(n^5)\right)^5 = z}
+\displaystyle{\det\begin{bmatrix} a_1 & b_1 & c_1 \\ a_2 & b_2 & c_2 \\ a_3 & b_3 & c_3 \end{bmatrix}^T \cdot \sin(x^5 - y^3) \cdot ln(\sqrt{e^x + sinh(z^4)} + tan(x^3)) = q}
+\displaystyle{\int_{0}^{1} x^{-2/3} (ln(x) + 1)^3 dx \cdot e^{i\pi} \cdot sin(z) = r}
+\displaystyle{\sum_{k=0}^n \left[\frac{k!}{(n-k)!} - (-1)^k\right]^2 = s}
+\displaystyle{\int_0^\infty x^{2/3} e^{-x^3} dx \cdot \lim_{m\to\infty} \left(\sum_{i=1}^m i^{\frac{4}{5}} cos(n^7)\right)^4 = t}
+\displaystyle{\int_{0}^{\pi} (\sinh(x) + cosh(x))^3 dx \cdot e^{-z^2} \cdot \lim_{k\to\infty} \left(\sum_{i=1}^k i^{5/4} cos(n^8)\right)^3 = u}
+\displaystyle{\int_{0}^{1} x^2 (ln(x) + 1)^2 dx - \lim_{m\to\infty} \left(\sum_{i=1}^m i^{\frac{5}{6}} sin(n^9)\right)^{-3/2} = v}
+\displaystyle{\int_{0}^{\pi/4} (\sinh(x) + cosh(x))^4 dx \cdot e^{-z^3} \cdot \lim_{k\to\infty} \left(\sum_{i=1}^k i^{\frac{6}{5}} cos(n^{10})\right)^2 = w}
+\displaystyle{\int_{0}^{1} x (ln(x) + 1)^4 dx - \lim_{m\to\infty} \left(\sum_{i=1}^m i^{-3/2} cos(n^{11})\right)^{-5/2} = x}
+\displaystyle{ \sum_{k=1}^{n} (-1)^k \binom{2n}{2k} \frac{(6n)!}{(3n)! (4k)! (2n-2k)!} }
+\displaystyle{ \prod_{k=0}^{\infty} \frac{1}{1+x^k 4^{-k}} }
+\displaystyle{ \int_{-\infty}^{+\infty} e^{i x t} \mathcal{F} \left[ f(t) \right](x) \, dx = (2\pi)^{-1/2} f(t-t_0) }
+\displaystyle{ \lim_{n \rightarrow \infty} \frac{(1+\sqrt{5})^n + (1-\sqrt{5})^n}{2^n} = \varphi^n - \psi^n }
+\displaystyle{ \int_0^\infty \exp(-t) \, J_0(2\sqrt{t}) \, dt = \frac{\pi}{4} }
+\displaystyle{ \sum_{k=1}^{n} k^3 \binom{2n}{n-k} \binom{2n+k}{k} = 2^{4n} \binom{2n}{n}^2 }
+\displaystyle{ \int_0^\pi f(x) \, dx = \lim_{N \to \infty} \frac{\pi}{2N} \sum_{k=1}^{2N} (-1)^k f\left(\frac{k\pi}{2N}\right) }
+\displaystyle{ \int_0^1 x^x \, dx = 0.6931471568... }
+\displaystyle{ \lim_{n \rightarrow \infty} n^{1/n} = e^{-\gamma} }
+\displaystyle{ \int_0^1 f(x) \, dx = -C \int_0^\infty \frac{f'(t)}{t} \, dt, \; C=-\gamma'}
+\dfrac{\left(x^2+2x\sin{y}-3\cos^4{z}\right)^5}{\left(\sqrt[3]{e^{2\pi i}}-x^4\cosh^{-6}(w)\right)}
+D_n=\sum_{k=1}^n\int_0^\infty x\sin(ax^b)\cos(cx^d)e^{-px}dx
+\prod_{i=1}^{n-1}\left(\dfrac{x-icosh(i)-isinh(i)}{x+icosh(i)+isinh(i)}\right)^2
+C_n=\int_{-\pi}^\pi\int_{-\pi}^\pi\left(\sum_{k=1}^nx_k^2e^{jy_k}\right)^ne^{-j(x_1+\cdots+x_n)}dx_1\cdots dx_ndy_1\cdots dy_n
+\oint_{\gamma}\dfrac{e^{z/2}-e^{-z/2}}{z^3}dz-\Re\left\{\sum_{k=1}^ne^{-j(x_k+\cdots+x_1)}x_k^5\right\}
+P(n,r)=\int_0^\infty t^{nr-1}\left(\dfrac{1}{2}-\dfrac{\sin(t)}{t}\right)^ndt
+\sum_{k=1}^n\prod_{i=1}^{k-1}\left(\dfrac{x_i+ix_{i+1}}{x_i-ix_{i+1}}\right)\left(\dfrac{x_{i+1}+ix_{i}}{x_{i+1}-ix_{i}}\right)
+\int_0^\infty\int_0^\infty e^{-(ax^b+cx^d)}e^{-px}dxdy
+Q(n,r)=\int_0^\pi\left(\sum_{k=1}^nx_k^3\cos(rx_k)\right)^ne^{-j\sum_{i=1}^nx_i}dx_1\cdots dx_n
+\prod_{i=1}^{n-1}\left(\dfrac{x_i-ix_{i+1}-2i}{x_i-ix_{i+1}+2i}\right)^4
+\dfrac{\int_{-\infty}^{+\infty} e^{-x^2/2} x (3x^4 - 2x^2 + 5) dx}{\int_{-\infty}^{+\infty} e^{-x^2/2} x^2 dx}
+(e^x - \sinh(x))(x^2-1)+x^2\cosh(x)\sinh(x)
+\sum_{n=0}^{\infty} \dfrac{(-1)^n}{2^{4n+1}}\binom{6n}{2n}
+\lim_{x\to 0^+}\dfrac{\log(\log(\cdots(\log(x+e^x))))}{\log(x+e^x)}
+e^{\cos(\sin(x))} + \sinh(\tan(e^x)) - \sqrt[3]{1-2\cos(x)} - x\csc(x)e^{x\tan(x)\sec(x)}
+\sum_{n=1}^{\infty}\dfrac{(-1)^n(2n)! n^{-2n}}{(3n)!\zeta(4n+1)^2}
+\int_0^1 \dfrac{\sin(\pi x) - x\sin(\pi x)}{x\cos(\pi x)} dx + \int_1^\infty \dfrac{\sinh(\pi x) - x\sinh(\pi x)}{x\cosh(\pi x)} dx
+\sum_{k=0}^{\infty}\sum_{n=0}^{k} (-1)^k \binom{2k}{k} n^3 3^{3(k-n)}
+e^{\sinh(x)} - e^{-\sinh(x)} + (x\cosh(x))^3
+\int_0^1 \dfrac{\ln(\tan^{-1}(\sqrt{x}))}{\sqrt{1-x}} dx + \int_1^\infty \dfrac{\ln(\tanh^{-1}(\sqrt{x}))}{\sqrt{1+x}} dx
+\displaystyle I=\int_{-\infty}^{\infty}e^{-x^2}dx
+\displaystyle f(x,y) = \frac{xy}{x^2+y^2}
+\displaystyle G(z) = \sum_{n=0}^{\infty}\frac{z^n}{n!(1-z)^{n+1}}
+\displaystyle F(\theta) = \int_{-\pi}^\pi \frac{\sin(x)\sin(x+\theta)}{x}dx
+\displaystyle u(x,t) = x(T-t)e^{-x^2/4Dt}
+\displaystyle D_x f(x,y,z) = \lim_{h\to 0}\frac{f(x+h,y,z)-f(x,y,z)}{h}
+\displaystyle P(n,k) = \binom{n}{k}p^kq^{n-k}
+\displaystyle C(n,k) = \binom{n}{k}\left(\frac{1-p}{1-q}\right)^k\left(\frac{q}{p}\right)^{n-k}
+\displaystyle A(x) = \frac{e^x}{1+e^x}
+\displaystyle e^z = \sum_{n=0}^{\infty} \frac{z^n}{n!}
+D_n(a) = \frac{1}{\Gamma(n)} \int_0^\infty t^{n-1} (e^t - 1)^a \, dt
+\mathcal{L}(f)(s) = \int_0^\infty e^{-st} f(t) \, dt
+f(x) = x^a \Gamma(b, x) + x^{a+c} \Gamma(b, x^d)
+g(x) = \sum_{n=1}^\infty (-1)^n a_n e^{-nx}
+h(x) = \lim_{\substack{y \to x \\ y \ne x}} \frac{f(x, y)}{(y - x)^p}
+i(x) = \int_{-\infty}^x \exp\left(\int_t^x f(s)\, ds\right) g(t) \, dt
+\text{E}_{a,b}(z) = \sum_{n=0}^\infty \frac{z^n}{\Gamma(an + bn + c)}
+j(x) = \int_0^\pi \left[p_1(t) \sin(xt) - p_2(t) \cos(xt)\right] \, dt
+k(x, y) = \frac{2}{\pi} \sum_{n=0}^\infty (-1)^n \frac{\sin((2n+1)x)\sin((2n+1)y)}{2n+1}
+\Phi_3(\theta_1,\theta_2,\theta_3) = \int_0^1 \int_0^1 \int_0^1 D(\theta_1, u) D(\theta_2, v) D(\theta_3, w) \, dudvdw
+2\sinh(3\ln(x^2+y^2)-4\arctan(\sqrt{xy})+\tan^{-1}(\cos(e^z))=0
+\frac{\partial}{\partial x}\left[ \left( y\sin(xyz)+xe^{\sinh(xy)}\right)\cdot\operatorname{sgn}(x)\cdot\sec^{3/2}(\sqrt{|y|}) \right] = 0
+D_xF(x,y,z) - \frac{\partial^4}{\partial x^4}\left(\sinh(xyz)e^{-x^2y^2}\right) + z\int_{-\infty}^{x} t^2 e^{yt} \,dt = 0
+3\cosh(\sqrt{|x|})\cdot\sinh(x^2+y^2)^2 - \frac{\partial}{\partial y}\left(x^3\ln\left|\tanh\left(\frac{z}{x}\right)\right|\right) = 0
+\left[ z^2\sin^{-1}(\sqrt{|xy|}) + x\int_{-\infty}^{y} t e^{t^2} \,dt \right] \cdot \operatorname{sgn}(y-z) = 0
+D_x^3\left[ y^2\ln(|\sinh(xy)|)\right] - z\cos(x+y)-3x\sinh(x^2y^2)^2 = 0
+\frac{\partial}{\partial x}\left[ \exp\left(\sinh(x^2)\right) - y\ln\left|\tanh\left(\sqrt{|xy|}\right)\right| \right] + z\int_{-\infty}^{y} t^2 e^{-t^2} \,dt = 0
+D_z\left[ x^3\arctan(e^x)+\ln(|x|)\cdot\sec^{3/2}(\sqrt{|xy|}) \right] - y^2\sinh(x^2y^2)^2 = 0
+\frac{\partial^4}{\partial x^4}\left[ z\sin^{-1}(\sqrt{|xy|}) + e^{y^2} \right] + x^3\ln(|z|)\cdot\sec(x+y) = 0
+D_x\left[ y^2\sinh(x^2y^2)^2 - z\arctan(\sqrt{|xy|}) \right] + x\int_{-\infty}^{z} t e^{-t^2} \,dt = 0
+f(x) = \sin{\left(\frac{e^x - e^{-x}}{2}\right)} + \cos{\left(\frac{e^x + e^{-x}}{2}\right)}
+X(s) = \mathcal{L}\{f(t)\}(s) = \int_0^\infty f(t)e^{-st}dt
+I_n(z) = \sum_{k=0}^n \frac{1}{k!(n-k)!}\left(\frac{z}{2}\right)^k K_{n-k}(z)
+\det(A+B) = \sum_{\sigma\in S_n} \epsilon_\sigma \det(A^\sigma)\det(B^{\sigma^{-1}})
+J_n(x) = \frac{1}{\pi} \int_0^\pi x \sin(x\sinh(t)) \cos(n t) dt
+\zeta(s,a) = \sum_{n=0}^\infty (n+a)^{-s}
+F(z) = P(z)\exp\left(\frac{1}{2\pi i}\int_0^\infty \frac{\tau-\Re(z)}{e^{\tau}-1} \frac{d\tau}{\tau^2}\right)
+K_{n}(z) = (-1)^n \sqrt{\frac{\pi}{2}} I_{n+\frac{1}{2}}(z)
+P(z) = z^n + a_{n-1} z^{n-1} + \cdots + a_1 z + a_0
+\Gamma(s,x) = \int_x^\infty t^{s-1} e^{-t} dt
+\displaystyle f(x) = e^{\sinh(\tanh(x^3 - x^2 + 3x))}
+\displaystyle g(y) = y^{5/8}\sqrt[3]{(y-1)(y-2)(y-3)} - \frac{1}{4\pi^2}\int_{-\infty}^{\infty} \frac{\coth(\pi z)}{z^2(z-y)^2}\,dz
+\displaystyle h(z) = \sinh^{-1}(\cos(e^{2z+1})) - 2iz
+\displaystyle j(w) = (w^5 - w^3 + 7w)\int_{0}^{\infty} \frac{t^2}{(t^3+2tw-1)^6}\,dt
+\displaystyle k(x, y) = x^4\sinh^{-1}(e^y\cos(x)) + \frac{\arctan(\tanh(xy)\sin(y))}{\sqrt{1+\cos^2(x)}-\cos(x)}
+\displaystyle l(s, t) = \int_{0}^{1} \frac{u^{13/4}\tan^{-1}(\sqrt{1-u^2})}{(t-us)^7}\,du - s\int_{-\infty}^{\infty} \frac{\coth(\pi z)(1+e^{2z})}{z(z-s)(z-st)^5}\,dz
+\displaystyle m(r) = r\sinh^{-1}(\cosh(r^3)) + 2\int_{0}^{\infty} \frac{t\tanh(rt)\coth(\pi t)}{(t^3+rt-1)^6}\,dt
+\displaystyle n(x, y, z) = x^5y^3\sin^{-1}(\cosh(z)) + \int_{0}^{1} \frac{u^{7/4}\arctan(\sqrt{1-u^2})}{(y-ux)^6}\,du - \int_{-\infty}^{\infty} \frac{\coth(\pi z)(1+e^{-z})}{z(z-x)(z-xy)^5}\,dz
+\displaystyle o(a, b) = a\sinh^{-1}(\cosh(b^3)) + 2\int_{0}^{\infty} \frac{t\tanh(at)\coth(\pi t)}{(t^3+abt-1)^6}\,dt
+\displaystyle p(x, y, z) = x^5y^3z^7\sin^{-1}(\cosh(\sin(z))) + \int_{0}^{1} \frac{u^{9/4}\arctan(\sqrt{1-u^2})}{(y-ux)(z-uz)^8}\,du - \int_{-\infty}^{\infty} \frac{\coth(\pi z)(1+e^{-z})(1+e^{-zy})}{z(z-ax)(z-axy)^7}\,dz
+3\sin(\pi/4) + e^x - \dfrac{27}{5^2}\sqrt[3]{81x^2-4}
+9\cos^2(2\theta)\csc(3\theta) + 2\tan^{-1}(\sinh(x))
+6\ln(\Gamma(n+1)) - \dfrac{5!}{\pi^2} \sum_{k=1}^{n} (-1)^k \cot(\tfrac{\pi k}{n})
+(1+\cos(x))^{-1/2}\sin(y) + \sqrt[3]{x^3+2}
+8\sec(2z)\tanh(\ln(x)) - 2\sin(\theta)^3
+\dfrac{5!}{3!\pi^2} \int_0^{\infty} \dfrac{\cos(t)}{t^2} dt + x^4\sin(y)e^{-x}
+18\sinh^{-1}(\sin(\theta)) + 6\tan(\sqrt[3]{x}) - e^{2z}\sec(3\pi/2)
+9\csc(\tfrac{\pi}{4})\sin^2(\tfrac{\pi}{2}-\theta) + \dfrac{7!}{\pi^5} \sum_{k=1}^{n} (-1)^k \cot(\tfrac{\pi k}{n})
+6\cosh^{-1}(\cos(x)) - 3\tan(\sqrt[3]{y}) + \sin(z)\sec(2\theta)
+(1+\cos(x))^4 + \sqrt[3]{x^3+2}\csc(\pi/4) - \dfrac{7!}{\pi^5} \sum_{k=1}^{n} (-1)^k \cot(\tfrac{\pi k}{n})
+\frac{1}{2} (e^{i\pi} + e^{-i\pi}) \cdot \sin(30^\circ) \cdot \ln(\sqrt{x^2 - y^2} - \arctan(z)) = 0
+D_f(x,y) = \| f(x+h,y) - f(x,y) - h\cdot f_x(x,y) \|
+\int_{-1}^1 (x^7 + x^4 \sin(5x^2) - e^{-x} \cos(2x)) dx = ?
+F(x,y) = \frac{\partial^2}{\partial y \partial x} \left[ x \cdot \sinh(xy) \right]
+\lim_{n\to\infty} n \cdot (1+p_1)^n \cdot (1-p_n)^n = ?
+G(x,y) = \frac{d}{dx} \left[ \int_0^1 f(t,x) \cdot g(x,y) \cdot h(t,y) dt \right]
+\det\begin{bmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{m1} & a_{m2} & \cdots & a_{mn} \end{bmatrix}
+H(x,y) = (f(x)^g(x,y))^h(f(x),g(x,y))
+\int_0^\infty e^{-ax} x^{1-\frac{1}{p}} \Gamma\left(\frac{1}{p}, bx\right) dx = B\left(\frac{1}{p},\frac{1}{q}\right)
+I(x,y,z) = \frac{\partial^2}{\partial x \partial y} \left[ z \cdot \sinh(x+y) \right]
+4\sin^2{\theta} + 3\cos^2{\theta} = 1 - \sin{2\theta}
+\dfrac{(x-a)(x-b)(x-c)}{(y-a)(y-b)(y-c)} = -\left(\dfrac{x}{y}\right)^3\left[1+\left(\dfrac{a^2+b^2-c^2}{c(b-a)}\right)\left(\dfrac{b-x}{b-y}\right)\left(\dfrac{x-a}{c-a}\right)\right]
+\dfrac{(n-1)!}{(m-1)!(n-m-1)!}
+\sum_{k=1}^n k^2 = \dfrac{n(n+1)(2n+1)}{6}
+x_0+\dfrac{f(x_0)-f'(x_0)x_0}{f'(x_0)} = x_1
+\dfrac{\Gamma(\alpha)\Gamma(\beta)}{\Gamma(\alpha+\beta)}
+\det\begin{bmatrix} a_{11}&a_{12}&\cdots&a_{1n}\\ a_{21}&a_{22}&\cdots&a_{2n}\\ \vdots&\vdots&\ddots&\vdots\\ a_{n1}&a_{n2}&\cdots&a_{nn} \end{bmatrix}
+\int_0^x t^3 e^{-t}\,dt = x^4 - 6x^3 + 15x^2
+e^{i\theta} = \cos{\theta} + i\sin{\theta}
+\dfrac{a^{m+n} - b^{m+n}}{a^m-b^m} = \left(\dfrac{a}{b}\right)^n + \dfrac{b^n}{a^n}\left(\dfrac{a^m}{b^m}\right)^n\left(1-\left(\dfrac{a^m}{b^m}\right)^n\right)^{-1}
+\displaystyle{\sum_{k=0}^{n-1}\binom{n}{k}a^k(-1)^kx^{n-k}}
+y=\frac{x^3\left(5+\sin(2x)\right)}{4-e^{\sin(\pi x/2)}}
+\sum_{n=0}^{\infty}\sum_{k=0}^{n}\binom{2n}{2k}p_0^kq_0^{n-k}p_1^{n-2k}
+f(x)=\int_{-\infty}^{\infty}\frac{\sin(xy)}{y^2+a^2}dy
+\displaystyle{g(t)=\sum_{n=0}^{\infty}c_ne^{-n\alpha t}\cos(n\beta t)}
+F(x)=\int_0^1\frac{(1-x)^a(x-b)^c}{(1-tx)^{a+c+1}}dx
+\displaystyle{I(x, y)=\int_{-\infty}^{\infty}\int_{-\infty}^{\infty}f(t, s)e^{i2\pi(ut+vs)}dtds}
+h(z)=z^4+\frac{1}{z^2}-\frac{1}{2}\left(\frac{\sin(z)}{z}\right)^4
+\displaystyle{\Phi(x, y)=\int_0^{\infty}\int_0^{\infty}e^{-(t+s-xy)}dt\,ds}
+L(s, n)=n!\sum_{k=0}^{n}(-1)^k\binom{n}{k}\frac{(ks)^n}{s^k}
+x_2 = (-b \pm \sqrt{b^2 - 4ac}) / (2a)
+y(t) = A\sin(\omega t + \phi)e^{-kt}
+f(x, y, z) = Ax^2 + By^3 + Cz^{3/2} + Dx^2 y^2 + Eyz^2
+g(x, y) = e^{\sinh(x+iy)}\cos(\tan(xy))
+I(s) = \int_0^\infty x^2 e^{-xs} dx
+F(n) = \sum_{k=1}^n (-1)^k k^{10}
+G(x, y) = \lim\limits_{n\to\infty} \left(1 - \dfrac{xy}{n}\right)^n
+H(z) = \dfrac{1 + z^2}{1 - z^2}
+3\int_0^1 x^2 (e^{4x} - \sin(5x)) \, dx + \sum_{n=1}^{10} (-1)^n n! = 0
+x^4 y^6 \log(\sqrt{z}) - \frac{\Gamma(3, \pi x)^2}{e^{-2\pi x}} = 7
+\det \begin{pmatrix} a_{11} & a_{12} & \cdots & a_{1n} \\ a_{21} & a_{22} & \cdots & a_{2n} \\ \vdots & \vdots & \ddots & \vdots \\ a_{n1} & a_{n2} & \cdots & a_{nn} \end{pmatrix}^{-1} + (x^2 - 3y) e^{\sin(z)} = 5
+D_x[f'(g(h(x)))] = x\left[\frac{g'(h(x))}{f''(g(h(x)))}-\frac{g'(h(x))^2 f'(g(h(x)))}{f''(g(h(x)))^2}\right]
+\int_0^{\infty} \frac{\cos(x) - e^{-x^3}}{e^{-x^5}} \, dx + x\tan(y)^2 \sec(\pi z) = 1
+P(X=k) = {n \choose k} p^k (1-p)^{n-k}
+k
+p_1, p_2, ..., p_k
+P(X=k) = \prod_{i=1}^k {n_i \choose k_i} p_i^{k_i} (1-p_i)^{n_i-k_i}
+\frac{\partial^2}{\partial x^2}\left(e^{-x^2/2} \int_{-\infty}^x u e^{-u^2/2} \, du\right) = -xe^{-x^2/2}
+\sinh^{-1}(x) = \ln(x + \sqrt{x^2-1})
+n
+\sinh_n^{-1}(x) = \ln\left(\frac{\sinh_{n-1}(\sinh(x)) + \sinh(x)}{\cosh(x)}\right)
+\sum_{k=0}^{n} {n \choose k}^2 {2k \choose k} = {3n \choose n}
+m
+\sum_{k=0}^{nm} {nm \choose k}^2 {(2k) \choose k} = {3mn \choose mn}
+D_x[f'(g''(h''(x)))] - x\left[\frac{g'''(h''(x))}{f''''(g''(h''(x)))}-\frac{g'''(h''(x))^2 f''''(g''(h''(x)))}{f''''(g''(h''(x)))^2}\right] = 1
+3\sin^2{\left(4x-\frac{\pi}{6}\right)}+2e^{-5t}\cos{\left(7t+\frac{2\pi}{3}\right)}-7\ln{\left|\tan{\left(\frac{\pi}{4}+xt\right)}\right|}
+8\arctan{\left[\sqrt{\sin{x}}\cot{\left(x+e^x\right)}\right]}-\frac{13\cosh^{-1}{\left[\sinh{\left(\frac{x^2}{3}\right)}+\tan{x}\right]}}{4}
+6\sec{\left(x+\arccos{\left(1-e^{-t}\right)}\right)}+\frac{5}{3}x\csc{\left[\sinh{\left(\sqrt[3]{x^2+t^2}\right)}\right]}
+\sinh^{-1}{\left[e^{-2x}\cos{\left(3\tan^{-1}{\left(\sin{\left(x-t\right)}+\csc{x}\right)}\right)}\right]}-\frac{7}{6}x\sec{\left[\arcsin{\left|\tan{\left(\pi+xt\right)}\right|}\right]}
+4\ln{\left|\sinh{\left(2e^x\right)}\right|}-\frac{9}{2}x\coth{\left[\cosh^{-1}{\left[e^t+\tan{\left(3x-\frac{\pi}{4}\right)}\right]}\right]}
+7\arctan{\left(\sinh{\left(x\right)}+\tanh{\left(t\right)}\right)}-\frac{12}{5}x\sec{\left[\cos^{-1}{\left|\tan{\left(\pi+xt\right)}\right|}\right]}
+9\ln{\left|\sinh{\left[e^x+\coth{\left(3t\right)}\right]}\right|}-\frac{16}{3}x\csc{\left[\arcsin{\left|\tan{\left(\pi+xt\right)}\right|}\right]}
+5\cosh^{-1}{\left[\sinh{\left(e^t+\tan{x}\right)}-\sin{\left(x-t\right)}\right]}+\frac{8}{3}x\coth{\left(\arcsin{\left|\tan{\left(\pi+xt\right)}\right|}\right]}
+12\arctan{\left[e^{-x}\sinh{\left(t\right)}-\tanh{\left(3x-t\right)}\right]}+\frac{6}{5}x\sec{\left[\cos^{-1}{\left|\tan{\left(\pi+xt\right)}\right|}\right]}
+14\sinh^{-1}{\left[e^x-\tan{\left(3t\right)}\right]}+\frac{2}{3}x\coth{\left[\cosh^{-1}{\left[e^x+\tan{x}\right]}\right]}
+\displaystyle x_3 = \frac{2\sin(6\pi - \cos^{-1}(\frac{\sqrt{5+4\sin^2(\theta)}}{3}))}{7\tan^2(\frac{\pi}{4}-\frac{\theta}{2})}
+\displaystyle f(x) = x^3\ln(e^x-1)^4+\int_0^{\sinh^{-1}(x)} \sec^2(\arctan(e^t))\,dt
+\displaystyle g(z) = z^\frac{1}{2}\exp(\pi i)\Gamma(\bar{z})\sqrt[3]{1+e^{-i\arg(z)}}-\Re(\sqrt{\bar{z}})^3
+\displaystyle h(y) = \int_0^1 (x-y)^{\frac{2}{\ln(\ln(x))}}dx+\sum_{n=0}^{\infty} (-1)^n (n+1)\zeta(n+3)\sinh^{-1}(\sqrt[n]{y})
+\displaystyle F(s,t) = \int_0^\infty K_0(xy)J_0(zw)(x^2+z^2)^{-\frac{s}{2}}(w^2+t^2)^{-1/2}dx dz dw
+\displaystyle G(u,v) = B_{10}(u)\Gamma(\frac{7}{4})Ei(-v\sqrt[3]{u})-B_{12}(\frac{5v}{3})\Gamma(\frac{8}{3})
+\displaystyle H(x,y) = \int_0^\pi \sin^6(\theta)\cos^2(\theta+x)\cot^4(\frac{\theta-y}{2})d\theta+\sum_{n=1}^\infty (-1)^n n^3\sin^5(n\pi)\sec^2(n\pi y)
+\displaystyle J(w,z) = \int_0^\infty w^x z^{1-x}M(x,1-\frac{1}{2})B(x,\frac{1}{2})\Gamma(\frac{3}{4}-x)dx
+\displaystyle K(a,b) = \sum_{n=0}^\infty (-1)^n\binom{\frac{a}{2}}{n}\binom{-\frac{b}{2}}{n} a^b 2^{-n}
+\displaystyle L(p,q) = q^{-\frac{1}{3}}p^{\frac{1}{3}}\int_0^\infty t^{-\frac{4}{3}}(t+p)^{-1}(t+q)^{-1}dt+\sum_{n=0}^\infty (-1)^n (n+1)(2n)!\zeta(n+1)\binom{\frac{q}{2}}{n}
+f(x) = \dfrac{e^{\sin(\pi x/2)} - e^{-\sin(\pi x/2)}}{(x-1)(x^2+4x+5)}
+g(y) = \sqrt{\dfrac{1+\tanh(y-\pi/2)}{1-\tanh(y-\pi/2)}} \cdot \operatorname{sech}(\log|\sin(y)|)
+\displaystyle\int_{0}^{\infty} x^2 e^{-x} \left(\dfrac{\Gamma(3/4, x^2)}{\Gamma(3/4)} - \dfrac{\Gamma(1/4, x^2)}{\Gamma(1/4)}\right)^2 dx
+h(z) = \sum_{k=0}^{\infty} (-1)^k \binom{z}{2k} 3^{3k} \left(\sqrt[3]{1+i}-1\right)
+\displaystyle\int_0^1 x^2 \ln(x) \sin(\pi x) dx + \sum_{n=1}^\infty \dfrac{(-1)^n}{n^2 (e^n-1)^2}
+j(t) = \dfrac{1}{\sqrt{\pi}} \int_{-\infty}^t e^{-x^2} \left(\dfrac{\cos(x)}{x} - \sin(x)\right) dx
+\displaystyle\sum_{n=1}^\infty (-1)^n \binom{2n}{n} (4n-1)!! \sqrt[4]{3} (i\sqrt{3})^n
+k(u) = \dfrac{1}{u-i}\left(\dfrac{\Gamma(1+\frac{iu}{2},-\frac{u}{2})}{\Gamma(1+\frac{iu}{2})} - \dfrac{\Gamma(1-\frac{iu}{2},-\frac{u}{2})}{\Gamma(1-\frac{iu}{2})}\right)
+\displaystyle\int_0^\infty x^3 e^{-x} \left(\dfrac{\Gamma(5/4, x^2)}{\Gamma(5/4)} - \dfrac{\Gamma(3/4, x^2)}{\Gamma(3/4)}\right) dx
+l(v) = \sum_{k=0}^\infty (-1)^k \binom{v}{2k+1} (6k+1)!! \left(\sqrt[3]{1+i}-1\right)
+\displaystyle{\left(\int_0^\infty x^3 e^{-x^2} dx\right)^2 - 2\sum_{n=1}^\infty \frac{(-1)^n (2n)!}{n!(n+1)!} \sin(4\pi n)}
+\displaystyle{\frac{d^4}{dx^4}\left[x^3 \cosh(5x)\right] + 6 \int_0^\infty e^{-t} \cos(3t) dt}
+\displaystyle{(-1)^n (2n)! \sum_{k=0}^{2n} (-1)^k \binom{2n}{k} k^{3n+1}}
+\displaystyle{\int_0^1 \frac{\sin(x^2)}{x^4} dx - 3\sum_{k=1}^\infty \frac{(-1)^k (2k-1)!!}{(2k)!} k^{-3/2} B\left(\frac{1}{2},k+\frac{1}{2}\right)}
+\displaystyle{\int_0^\infty e^{-x^4} J_{5/4}(2x) dx + \int_0^\infty x^3 J_{7/4}(6x) dx - 2\sum_{n=1}^\infty (-1)^n (2n-1)!! (2n+5)!!}
+\displaystyle{\frac{d}{dx} \left[ \Gamma(x+1)\Gamma(x+3/4)\right] + \int_0^\infty e^{-x^2t} t^{1/4} J_{5/4}(2\sqrt{xt}) dt}
+\displaystyle{\sum_{n=1}^\infty (-1)^n (2n-1)!! (2n+3)!! \left[ \int_0^\pi x^n \sin(x) dx - 2^{-2n} \right]}
+\displaystyle{\int_0^\infty e^{-x^4} J_{7/4}(6x) dx + \int_0^\infty x^3 J_{5/4}(2x) dx - 2\sum_{k=1}^\infty (-1)^k (2k-1)!! (2k+5)!!}
+\displaystyle{\frac{d}{dx} \left[ \Gamma(x+1)\Gamma(x+3/4)\right] + \int_0^\infty e^{-x^2t} t^{1/4} J_{5/4}(2\sqrt{xt}) dt}
+\displaystyle{\sum_{n=1}^\infty (-1)^n (2n-1)!! (2n+3)!! \left[ \int_0^\pi x^n \sin(x) dx - 2^{-2n} \right] + \frac{d}{dx} \left[ \Gamma(x+1)\Gamma(x+3/4)\right]}
+\displaystyle F(x) = \int_0^\infty \frac{xe^{-x^2/2}}{2\sqrt{\pi}} K_{1}\left(\frac{x}{2}\right)^2 dx
+L(s, k) = \prod_{n=1}^\infty \frac{1}{1-k^ns^{-1}}
+\displaystyle S_N(z) = \sum_{n=0}^N (-1)^n z^{n(n+1)/2}
+C(n, k) = (-1)^k {n \choose k} (k-1)!!
+\displaystyle J_\nu(x) = \frac{1}{\pi}\int_0^\pi \cos(x\sin\theta) \sin(\nu \theta) d\theta
+G(a, b; z) = \sum_{k=0}^\infty \frac{(a)_k (b)_k}{(q)_k k!} z^k
+\displaystyle W_n(x) = x^{-1/2}\sum_{k=0}^n \frac{(-1)^k}{k!(n-k)!} \left( \frac{d}{dx} \right)^{2k} \exp\left(\frac{-x}{2}\right)
+\displaystyle \Gamma(s, x) = \int_x^\infty t^{s-1} e^{-t} dt
+H(n) = (-1)^n \binom{2n}{n}^2
+\displaystyle E_{p}(z) = \sum_{k=0}^\infty \frac{z^k}{\Gamma(pk+1)}
+\large\displaystyle -e^{\sinh(\pi^2+\ln(x))} \cdot \cos(\tan^{-1}(y^3)-2\arctan(z)) + (w+1)^4
+\large\displaystyle \lim_{n \to \infty} \frac{1}{\sqrt{\ln n}} \sum_{k=1}^{n^2} (-1)^k k^{-5/2} \sin(n^3 k)
+\large\displaystyle x^x e^{(\pi+x)^\pi} \sinh(\cot(y))^{\tan(z)} - \log_e{(\sec(w))}^{1/\sin(x)}
+\large\displaystyle \int_{0}^{\infty} \frac{\ln(t^3+\sqrt[4]{t})}{1+t^5} e^{-t} dt + 2\Gamma(7/6,\pi^2)
+\large\displaystyle (x+y)^x \ln(\sinh(\pi x y))^{\csc(z)} - e^{(\tan(w)-1)/\ln(x+y)}
+\large\displaystyle \sum_{k=0}^{\infty} (-1)^k {2k \choose k}^3 (4x)^{2k} \sec(k^2\pi)
+\large\displaystyle \int_0^{\infty} \frac{\sinh(t^6)}{t^8+1} e^{-t} dt + 3\left(\arctan\left(\frac{y}{x}\right)\right)^3
+\large\displaystyle \exp\left(-\ln\left(\frac{\pi^2}{\sinh(x)}\right)^\frac{1}{z}\right) \cos(y) + x^{-\tan^{-1}(w+1)}
+\large\displaystyle \lim_{n \to \infty} \sum_{k=0}^{n^4-1} (-1)^k k! (2k-1)!! (\ln(k+1))^{3/2}
+\large\displaystyle \int_0^{\infty} \frac{\cos(\sin(t^5))}{t^7+x} e^{-t} dt + 2\left(\tan^{-1}(\sqrt[3]{y})\right)^4
+2\sin^2(\theta) + \cos(4\theta) - e^x\cos(3x)\sinh(5x)
+f(x) = \frac{x^3e^{-x}\sin(x^2)}{g(x)\cos(3x)^2}
+\lim_{x\to\infty} \left(\sqrt[3]{x^4 + x^2} - x^{5/3}\right)^2
+F(z) = \sum_{n=0}^{\infty} (-1)^n\frac{(z-2)^n}{n!(n+1)!}
+\int_0^\pi \frac{x^2\sin(2x)}{(3+x^2)\cosh^2(x)} dx
+y(t) = Ce^{-4t}\sin(5t + \pi/6) - De^{-3t}\cos(2t)
+\ln\left|\frac{e^{2x}-1}{e^{2x}+1}\right| + \tanh^{-1}(\tan(x))
+f(x,y,z) = x^2y^3\sin(xyz)\cos(zyx)
+D = \left(\begin{matrix} a_{11} & a_{12} & a_{13} \\ a_{21} & a_{22} & a_{23} \\ a_{31} & a_{32} & a_{33} \end{matrix}\right)
+\int_0^\pi \frac{\sin^4(x)\cos^5(x)}{\sin(x)^6+\cos(x)^6} dx
+2\sin(\pi/4)\cos(3\pi/4) + e^{i\pi/6}\sqrt{5} = -0.894427191\dots + 0.433012702\dots i
+D^{-1}(z)\left[ C(t_2)D(z)C(t_1)^{-1}\right] D(z) = C(t_1+t_2)
+C(t), D(z)
+z, t_1, t_2
+\int_{0}^{1}x^2\ln(x)\tan^{-1}(\sqrt{x})dx = (-5/8)\gamma_3 + (7/16)\gamma_4 - \frac{\pi}{4}\ln^2(2)
+\gamma_n
+x_{n+1} = x_n\Bigg[ 1 + \dfrac{a}{x_n}\Bigg]^{-1}
+x_0 > 0
+a
+\int_{\mathbb{R}}e^{x^2}\cos(x)\sin(x)dx = \frac{\sqrt{\pi}}{8}(e-1)(e+1)
+e
+z_n = (a_n + b_n\sqrt{i})/c_n
+i=\sqrt{-1}
+a_n, b_n, c_n
+\sum_{k=0}^{n}{2n\choose n} = 4^n
+{n \choose k}
+f(x) = x^3 + x^2 - x + 1
+x = (-c_1\pm \sqrt{q_1}\sin(\frac{\theta}{3})\mp c_1\cos(\frac{\theta}{3}))/r
+\lim_{n\to\infty}\sum_{k=0}^{n}{n \choose k}x^k = (1-x)^{-1}
+(a)_n
+x\in(-1,1)
+\int_0^{\infty} x^2 e^{-x}dx = 2
+\Gamma(3) = \int_0^\infty t^2e^{-t}dt
+3\sinh^2(4\log_5(7e^x)) + \frac{\tan(2\pi n)}{16(\sec^2(5\sqrt{z})+\cos^2(3\pi t/8))} - \operatorname{Im}(\int_C f(z) dz)
+2^x\cdot 3^{\sinh(x)} + \coth(4\ln(5))\cdot\sin(\tan^{-1}(6e^{-x}))
+\left(1+\frac{1}{1-\tanh(2\sqrt{x})}\right)^7\cdot\cos(8\arctan(3\pi t/8)) - \ln\Bigl|\frac{\cosh(\sin(4z))}{\sin^5(3\pi n/8)}\Bigr|
+e^{2\cos(x)} + 7\cdot\sinh^{-1}(\tan(6\sqrt{t})) + \csc(2\pi n)\cdot\sin(\tan^{-1}(3\pi t/8))^5
+\exp\left(4z+\frac{\sinh^2(x)}{e^{2\cos(x)}}\right)\cdot\sin(4z)^7 - \ln\Bigl|\frac{\cosh(\sin(4z))}{\sin^3(3\pi n/8)}\Bigr|
+10\sin^{-1}(\tanh(2\sqrt{x})) + 5\sin(4z)^6 + \cot(4\ln(5))\cdot\sin(\tan^{-1}(6e^{-x}))
+\left(1+\frac{1}{1-\tanh(2\sqrt{x})}\right)^7\cdot\cos(8\arctan(3\pi t/8)) - \ln\Bigl|\frac{\cosh(\sin(4z))}{\sin^5(3\pi n/8)}\Bigr|
+6e^{-x} + 7\cdot\sinh^{-1}(\tan(6\sqrt{t})) + \csc(2\pi n)\cdot\sin(\tan^{-1}(3\pi t/8))^5
+\exp\left(4z+\frac{\sinh^2(x)}{e^{2\cos(x)}}\right)\cdot\sin(4z)^7 - \ln\Bigl|\frac{\cosh(\sin(4z))}{\sin^3(3\pi n/8)}\Bigr|
+\left(1+\frac{1}{1-\tanh(2\sqrt{x})}\right)^7\cdot\cos(8\arctan(3\pi t/8)) - \ln\Bigl|\frac{\cosh(\sin(4z))}{\sin^5(3\pi n/8)}\Bigr|
+e^x\sinh(2x^3+\ln(x))-3x\cos(\pi e^x)
+\sum_{k=1}^{\infty} (-1)^k {2k \choose k} x^{4k}
+\prod_{n=1}^{50} (1+{2n-1 \choose n-1}^3)
+x^{\frac{1}{3}}y^{-\frac{2}{7}}(z^2\ln(xy))^{-1/6}\cos(\pi(x^4+y^3))
+\int_0^1 x^\alpha (1-x)^\beta \log_{10}(x)dx
+D_h f(x,y)=f(x+h\cos\theta, y+h\sin\theta)-f(x,y)
+x^{2x^3}-e^{\pi x}\ln(\sin(2x))
+\int_0^\infty \frac{e^{-t/a}t^2}{1+bt}dt
+x(1-e^{-x})-\sum_{n=1}^\infty\frac{(n-1)!}{(2n-2)!}(2x)^{2n}
+x^{-1/4}\cos(\frac{3\pi x^2}{8})+y^7\ln(x^2+y^6)
+\displaystyle -2\sin^3(x+\pi/4)+\frac{e^{3x}-5}{4\cos(x)^2}
+\sqrt{\frac{\ln(\tan(z))}{\sinh(w)}}-3\coth^2(\sqrt{u}\tan(x))
+\lim_{n\to\infty} \sum_{k=1}^{n-1} (-1)^k \binom{2n}{2k+1} 3^{-k}
+D_x^4 f(t) - 5 D_x^2 f(x) + \sin(D_x f(y))
+\int_{0}^{1} x \arctan(e^x) dx - \sum_{k=1}^{\infty} \frac{(-1)^k}{k^3}
+\lim_{x\to 0} \left(\frac{\sin(2x)}{x}\right)^{1/2} (\ln(x))^3
+\exp\left[\int_0^t (2e^{-s}+s) ds\right] - \sinh(3t)^2
+\sqrt[3]{x^2-1}-\frac{\cos(\sqrt{x})}{\sin(\sqrt{x})} \ln\left( \tan\left(\frac{\pi}{4}+\frac{\arcsin(x)}{2} \right) \right)
+\int_{0}^{x} t^{-3} (\sin(t)-e^t) dt - 3 \int_{y}^{1} u^2 e^{u^3} du
+\ln\left(\Gamma\left(\frac{5}{4}\right)\right) + \sinh^{-1}\left[\frac{\cos(x)^2}{\sinh(x)} \right]^4 - \int_{0}^{1} \tan(t)^3 dt
+\displaystyle{ x_{n+1} = \frac{x_n^2 + 5x_n - 3}{2x_n + 1 } },\quad n=1,2,\ldots
+\displaystyle{ f(x) = \int_0^\infty \left[ \sinh(\lambda x) e^{-\lambda t} - \frac{\sin(\lambda x)}{t^2 + x^2} \right] \, dt },\quad x>0
+\displaystyle{ y(t) = \sum_{n=1}^\infty (-1)^n \frac{2^n n!}{ (2n)! } t^{2n} e^{-t/2}, \quad t > 0}
+\displaystyle{ g(x,y,z) = \iint_D e^{-\lambda r - \mu s - \nu \sqrt{r^2+s^2}} \, dA },\quad D \text{ is a bounded region in } \mathbb{R}^2
+\displaystyle{ h(x,y) = \int_0^1 \int_0^{1-x} f(z) g(y-z) \, dz \, dy },\quad 0 \leq x \leq 1, \, 0 \leq y \leq 1
+\displaystyle{ F(x,y) = \sum_{m=0}^n \sum_{k=0}^m (-1)^m { n \choose k } { m \choose k } x^k y^{m-k} },\quad 0 \leq x,y \leq 1
+\displaystyle{ P(x,y) = \frac{\Gamma(n+2) \sin(\pi x) \sin(\pi y)}{\Gamma(n+1)^2} }
+\quad -1 < x,y < 1, \, n=1,2,\ldots
+\displaystyle{ W(x,y) = \iint_D e^{-(x^2 + y^2)/(4\sigma^2)} H(x)H(y) \, dx \, dy },\quad D \text{ is a bounded region in } \mathbb{R}^2
+\displaystyle{ G(t,s) = \frac{\Gamma(\alpha+1) \Gamma(\beta+1)}{2^\alpha \Gamma(\alpha+\beta+2)} }
+\quad t \geq 0, \, s \geq 0, \, 0 < \alpha,\beta < 1
+\displaystyle{ R(x,y) = \sum_{m=0}^n \sum_{k=0}^m (-1)^m { n \choose k } { m \choose k } x^k y^{m-k} P_k(\cos x) P_{m-k}(\cos y) }
+\quad 0 \leq x,y \leq \pi, \, n=1,2,\ldots
+P_n(x)
+n
+\left(\sum_{n=1}^{100} n^3\cos{n^2}\right)^2+\frac{\pi}{e^{-i\ln\left(1+(-1)^n\sqrt{n}\right)}}=x
+\int_0^\infty \left(\tanh^{-1}\left(x^2\sin{\left(\frac{\pi}{4}-x\cos{\left(\frac{\pi}{8}\right)}\right)}\right)\right)^3dx=\ln{(e+1)}+\sqrt{2}
+z=w\left(\left(z_0\right)^4-\frac{1}{\tanh{\left(\pi i\left(w^5-w^{-6}\right)\right)}}\right)+\frac{d}{dz}f(x,y)\big|_{(0,0)}=(a+bi)(c+di)
+\lim_{n\rightarrow\infty}\sum_{k=1}^n \sin{\left(\pi k^5-\frac{1}{k^3}\right)}=\frac{\sqrt{2}}{e}
+\prod_{m=1}^{10} m!\cos{\left(2^{-2m+1}\pi\right)}+\sinh{\left(\frac{i^2}{\ln{(e^2-1)}}\right)}\tanh{\left(\sum_{n=1}^{\infty} n\coth{\left(n^3\sqrt[3]{z}\right)}\right)}=-z
+\int_0^\infty \sin{\left(\frac{x}{\log{x+e^{-i\pi}}}\right)}dx=\frac{2}{\ln{(1+\sqrt{2})}}+\tan{\left(\frac{\pi}{4}-\frac{3i}{2}\right)}
+\sum_{n=1}^{\infty} \left(\sinh{\left(n!\pi^6\right)}\right)^3+\cos{\left(\pi^5-e^{-i\ln{(n^2)}}\right)}=\sin{z}
+\int_0^\infty x^4 e^{x\sin{x}}dx=-\frac{1}{\sqrt[3]{2}\tanh{\left(\sum_{n=1}^{\infty} n\cot{\left(n^5\cos{\left(\frac{\pi}{6}\right)}\right)}\right)}}
+\prod_{m=1}^{10} m!\sin{\left(\pi^2-\frac{1}{m^3}\right)}+\cosh{\left(e^{-i\ln{(z^5-z^{-4})}}\right)}=\ln{(x+y)}
+\int_0^\infty x^3 e^{-x\sinh{\left(\pi^2\cos{x}\right)}}dx=-\frac{1}{2}\sec{\left(i\pi\right)}\tan{\left(\sum_{n=1}^{\infty} n\cot{\left(n^4\sqrt[4]{w}\right)}\right)}+z
+2\sin^{-1}\left(\sqrt{\frac{1-\cos(4x)}{2}}\right) + \cos(3x)\sin(5x) = C_1
+e^{\sinh(x^2+y^3)}\ln\left(\tanh\left(\frac{x}{e^y}\right)\right) = C_2
+D\left[\frac{\partial}{\partial t}\left(\frac{\cos(xt)}{t^2}\right)\right] + \delta(x-a)\delta(t-b) = 0
+\sum_{k=-\infty}^{\infty}\int_{-\infty}^{\infty}f(x,y)e^{i(kx+\ell y)}dxdy = F_{kl}
+L^{-1}\left[\frac{s^2}{s^4+a^4}\right] = f(t)*g(t)
+\int_{-\infty}^{\infty}H(x,y)J_0\left(x\sqrt{\lambda^2+\mu^2}\right)\psi_{\lambda,\mu}(\mathbf{r})d\mathbf{r} = C_\lambda,\ C_\mu
+W[f(t),g(t)] = \int_{-\infty}^{\infty}\frac{1}{2}\left(f(t)g^*(t)-f^*(t)g(t)\right)e^{-i\omega t}dt
+\frac{\partial}{\partial y}\left[\frac{\partial^2\varphi(x,y)}{\partial x^2}+\frac{\partial^2\varphi(x,y)}{\partial y^2}\right] + \sin(x)\cosh(y) = 0
+I_n(z)K_m(w) - I_{m}(w)K_n(z) = (-1)^mm!/(m-n)!
+\left(3\sinh^{-1}\left(\frac{x}{2}\right) - \sqrt{\pi}\operatorname{erf}\left(\frac{x}{\sqrt{2}}\right)\right)\left(4e^x + \int_0^\infty e^{-t^2}t^5 dt\right)
+\sqrt{2\pi}e^{-x^2/2}\left[\mathcal{L}^{-1}\left(\frac{s^2}{s^3 - \sin(s)}\right)\right]\left[I_{0}(x) + 2\sum_{k=1}^{\infty} I_{2k}(x)\cos(4k-1)\theta_x\right]
+\displaystyle\int_0^\pi \frac{\log(\sin(x))}{\sinh^2(x)} dx - \sum_{n=0}^\infty \frac{(2n)!}{4^{n} (n!)^2} \tanh^{-1}\left[\tanh\left(\frac{2n+1}{2}\right)\right]
+\int_0^1 x^a(1-x)^b \sin(cx)\ dx = B(a+1, b+1) B(a+1, c) B(b+1, c)
+\sum_{k=1}^{n} k^{3k + 2}\left(\frac{1}{2^k - 1}\right)^3 + \sqrt[4]{(n+1)\left[\Gamma\left(\frac{5}{2}, n^2\right) - \Gamma\left(\frac{5}{2}, (n-1)^2\right)\right]}
+\int_0^\infty x^{\alpha} e^{-ax^{\beta}} J_\nu(x) dx = \frac{a^{-\alpha/\beta} \Gamma(\alpha+\nu+1) \Gamma(\beta\nu-\alpha)}{2\pi \Gamma(\nu^2/\beta)}
+\int_0^x (t-x)^n e^{at} dt = (-1)^n x^n e^{ax}\left[\frac{d}{dx}\right]^n \left(e^{ax} - 1\right)
+\sum_{k=1}^n (-1)^k \binom{2n}{2k} \binom{2n-2k}{k} = n\left[\frac{\Gamma\left(\frac{n+1}{2}\right)\Gamma(n-\frac{1}{2})}{\sqrt{\pi}\Gamma(n+1)}\right]
+\int_0^x \sinh^{-1}(t) dt = x\sinh^{-1}(x) - \sqrt{x^2-1} + \sinh^{-1}(\sqrt{x^2-1})
+\sum_{k=1}^n (-1)^k \binom{n}{k}^3 k^5 3^{3n-3k} = n\left[\frac{\Gamma(n+1)\Gamma(n-\frac{5}{6})\Gamma(\frac{7n-2}{6})}{\sqrt[3]{3}\Gamma(n+\frac{1}{2})}\right]
+\displaystyle{a_{ij} = \frac{\int_0^1 x^{i-1} (1-x)^{j-1} dx}{\int_0^1 x^{m-1} (1-x)^{n-1} dx},}
+i, j, m, n
+\displaystyle{f(x) = \exp\left(\frac{x}{x+\sinh(x)}\right)\sinh^5\left(x e^{-x/2}\right),}
+x
+ where 
+ is the nth order Lommel polynomial and 
+ where 
+ is the Laguerre polynomial 
+ where 
+ where 
+ is the Gegenbauer polynomial 
+ where 
+ where 
+ where 
+ where 
+3\sin(2\pi x) + 5\cos(\pi x)^3 - e^x\ln(x)\sinh(4x)
+\dfrac{x^7(x^3+1)^5}{(x^4+1)(x^6-1)}
+i^i \cdot \cosh^{-1}(\sqrt{\frac{1+\tanh(x)}{1-\tanh(x)}}) + x\coth(2x)
+\ln(\sinh(x)) + 3\sinh^{-1}(e^x) - \tanh^{-1}(\sinh(x)^2)
+e^{\sinh(x)}\cosh(\ln(x)) - x^2\cosh(x)\coth(x)
+\dfrac{\operatorname{arctanh}(\sqrt{x})\cdot \tanh(x) + \sinh(x)^3}{\ln(\sec(x))}
+2i^x - 5\cosh^{-1}(\tanh(x)) - x\cot(x)
+\dfrac{\cosh(x)\cdot e^{\tanh(x)}}{\sinh(x)^4} + \sinh(x)^2\ln(\cosh(x))
+i^x\ln(x)\tanh(x)^3 - x\coth(x)\operatorname{arctanh}(\sinh(x))
+\ln(\sin(x)) + \sinh^{-1}(e^x) - x\coth(2x)
+\Large{4\cdot2^6 + 3\cdot5!\left(e^{\pi} - \frac{1}{\sqrt[3]{7}}\right)^2}
+\dfrac{(x^2+y^2-z^2)\sqrt[3]{xyz}-4xyz}{8xyz}
+\sinh^{-1}\left(\dfrac{\tan\left(5x+\frac{3\pi}{4}\right)}{2\cos\left(x-\frac{\pi}{6}\right)}\right)
+\ln\left(\dfrac{\Gamma\left(\dfrac{5}{6}+\dfrac{1}{2}i\sqrt{7}\right)\sinh^{-1}(e^z)}{K_0(4\sinh(x))}\right)
+\sum_{k=0}^{n-1}\binom{n}{k}^3\left(\dfrac{\cos(2^k x)-1}{2^k}\right)^4
+\dfrac{(-1)^{n+1}(2n)!}{2^n(n!)^2}
+\int_{0}^{\infty}\dfrac{\sinh(x)\sin(y)}{x^3\cosh(x)+a}dx
+e^{\frac{\pi}{4}}\left(\dfrac{1+i}{\sqrt{2}}-(-1)^n\sqrt{3}i\right)^n\left[x-\dfrac{(1-x)e^{x+\frac{\pi}{6}}}{e^x+e^{-\frac{\pi}{6}}}\right]
+\dfrac{(z-1)^2(3z^2-z-1)}{(z^2-4)(z^3-1)}
+\dfrac{(-1)^n\sqrt{2}\Gamma(\frac{n+1}{2})\sinh(\pi/4)\sin(\pi/6)\sin(n\pi-\pi/6)}{\Gamma(\frac{n+3}{2})\cos(n\pi)}
+D(X_n) = \frac{1}{n} \sum_{k=1}^{n} (\ln X_{k+1} - \ln X_k)
+E[\exp(\lambda W)] = \int_0^\infty \left[ \sum_{k=0}^n \frac{(\lambda t)^k}{k!} e^{-t} \right] w(t) dt
+\mathbb{E}[X | X > a] = \frac{\int_a^\infty x f(x) dx}{\int_a^\infty f(x) dx}
+P[A \cap B] = P[A|B] P[B]
+f(x,y) = ce^{-(ax+by)^2/2t^2}
+\int_{-\infty}^{\infty} f(x) dx = \frac{1}{\sqrt{\pi}} \int_0^\infty x e^{-x^2} dx
+f(x,y) = ae^{-ax}be^{-by}/(ab)
+\det(A) = \sum_{i=1}^n (-1)^i I_{ii}
+X_t = X_0 e^{(r-q-\frac{\sigma^2}{2})t+\sigma W_t}
+Z_n = E[Z_{n+1} | F_n] + \eta_n
+\dfrac{\left(e^x - \sinh{y}\right)^2}{2\ln{(x^3 + \sqrt[4]{z})} + \tan^{-1}{\left(\cot{\pi x} + \sec{y}\right)}} = 0
+\displaystyle\int_0^\infty\dfrac{\sin(ax)\sinh(by)}{x^3e^{cx}}dx = \dfrac{\pi}{4}\left(\dfrac{a}{b}-\dfrac{b}{a}\right)\left(1 - e^{-(a+b)c}\right)
+\left(\dfrac{\tanh{x}\sin^2{y}}{\sqrt{1+\cos^2{z}}}+\dfrac{\sinh{x}\cos^2{y}}{1-\cos^2{z}}\right)\cdot\dfrac{\sinh{x}\sin^2{y}}{\sqrt{1+\cos^2{z}}} = 0
+\displaystyle\int_0^\infty \dfrac{e^{-ax}\sin(by)}{x^2}dx = \dfrac{b}{2a}\left(\dfrac{\pi}{2}-\tanh^{-1}{\left(\dfrac{2ab}{\sqrt{a^2+b^2}}\right)}\right)
+\displaystyle\int_0^\infty\dfrac{x^2e^{-ax}}{(1+x^2)(x^2+y^2)}dx = \dfrac{\pi}{4}\left(\dfrac{1}{a}-\dfrac{1}{a+y^2}\right)
+\left(\tanh^2{(x-y)}+\coth^2{(x+y)}\right)\cdot\cosh^{-2}{(x^2-y^2)} = 0
+\displaystyle\int_0^\infty\dfrac{x^4e^{-ax}}{(1+x^2)^2}dx = \dfrac{\pi}{8}\left(\dfrac{2}{a^3}-\dfrac{16}{a^5}\right)
+\displaystyle\int_0^\infty\dfrac{xe^{-ax}}{\sinh^2(by)}dx = \dfrac{\pi^2}{4}\left(\dfrac{1}{b^2}+\dfrac{1}{a}-\dfrac{2e^{-ab}}{ba}\right)
+\left(\sinh^{-2}{(x-y)}+\cosh^{-2}{(x+y)}\right)\cdot\tanh^2{(x^2-y^2)} = 0
+\displaystyle\int_0^\infty \dfrac{e^{-ax}\cos(by)}{x^3}dx = \dfrac{\pi}{4a^2}\left(1 - e^{-2ab}\right)
+D(z) = z^2\left[ 1 - \frac{1}{6}\left( z^{-2} + z^{2} \right)\left( 3 z^4 + 3 z^2 + 7 \right) \right]
+f(x) = x^3\cosh(\sinh^{-1}(e^x)) - e^{-x}\int_0^x\tanh(t^3)\,dt
+\Phi(s) = \sum_{n=1}^{\infty} (-1)^n (2n)! s^{-2n-1} B_{2n+2}(1/2, 1/2)
+g(x) = \int_0^x K_0(t) \, I_1\left(\frac{x}{t}\right) J_0(xt)\, dt
+h(r) = \sum_{n=1}^{\infty} \frac{(2n)! (2n+3)!!}{(2n+2)!! (4n)!!} r^n \left[ \psi^{(n)}\left(\frac{1}{2}\right) - \gamma_n \right]
+k(x,y) = \int_0^1 P_{-\nu-1/2}^{1/2, 3/2}(\cosh t) P_{\nu-1/2}^{1/2, 3/2}(\cosh(tx)) \, dt
+l(t) = e^t \int_0^\infty (s+t)^2 K_2(2\sqrt{st})\, ds
+m(x) = J_1(x) Y_1(x) - 2J_2(x) Y_0(x)
+n(r, \theta) = r^{\frac{5}{3}} J_{\frac{5}{3}}(r) P_{\frac{5}{3}}^\mu(\cos\theta) + r^{\frac{7}{3}} J_{\frac{7}{3}}(r) P_{\frac{7}{3}}^\mu(\cos\theta)
+o(x, y) = \int_0^1 K_{i\nu}(z) J_0(zy) J_0(xz) K_0\left(\frac{\sqrt{xy}}{z}\right) dz
+3\sinh^4(2x) - e^x \cos(5\pi x) + \frac{\tan^{-1}(\ln(1+x))}{x^3} = 0
+D_y f(x,y) = \lim_{h\to 0}\frac{f(x, y+h)-f(x,y)}{h}
+\frac{\Gamma(n)\Gamma(m)}{\Gamma(n+m)} = \int_0^1 t^{n-1}(1-t)^{m-1}dt
+g(x) = x^2\cos(x^{-3}) - e^{\sinh(x)}\ln(\sin(x)) + c
+\text{erf}(x) = \frac{2}{\sqrt{\pi}}\int_0^x e^{-t^2}dt
+I_n(z) = \sum_{k=0}^{\infty}\frac{1}{k!(n+k)!}\left(ze^z\right)^k
+\text{Li}_n(x) = \sum_{k=1}^{\infty}\frac{x^k}{k^n}
+f(x, y) = x^2e^{-xy} + y^2\sinh(xy)
+J_n(z) = \frac{1}{\pi}\int_0^\pi \cos(z\sin(\theta))\cos(n\theta)d\theta
+\Phi(x, t) = x(t) - x(0) - t\dot{x}(0) + \frac{1}{2}tt\ddot{x}(\xi)
+f(x) = \sum_{k=1}^{\infty} (-1)^k \frac{2^k x^{2k}}{(2k)!}
+\nabla\cdot(\mathbf{D}\cdot\mathbf{E}) - \frac{1}{c^2} \frac{\partial}{\partial t}(\mathbf{D}\cdot\mathbf{E}) = 0
+g(x, y) = \iint_{R^2} f(u, v) |\det J| dudv,
+J
+||\cdot||
+\exp\left(\sum_{k=1}^{n-1} \frac{a_k}{k} x^k\right) = 1 + \sum_{k=1}^{n-1} \left(\frac{a_k}{k}\right)^x S(x, k),
+S(x, k)
+\int_0^\infty e^{-x^2} J_\nu(ax) x^{\mu-1} dx = \frac{a^\mu}{2^\nu \Gamma\left(\tfrac{\mu+\nu}{2}\right)} K_{\nu-\mu}(a)
+zf(z) + (1 - z)g(z) = h(z),
+|f(z)| \le M_f, |g(z)| \le M_g,
+h(z)
+|z| < 1
+\mathrm{Res}\left(\frac{e^z}{(z-a)^n}, a\right) = \frac{1}{(n-1)!} e^a (z-a)^{n-1}
+D_t u(x, t) + D_x F(u(x, t), x, t) = 0,
+D_t
+D_x
+\int_{-\infty}^{\infty} \exp(-x^2/2\sigma^2) \cos(kx)dx = \sqrt{2\pi}\sigma \exp(-\sigma^2 k^2/2)
+f(x) = e^{-x} \sum_{n=1}^\infty (-1)^n n! x^n S_1(n+1),
+S_1(n)
+D(r) = -\frac{\hbar^2}{2m}\left(\frac{1}{r}\frac{\partial}{\partial r}r\frac{\partial}{\partial r}+\frac{1}{sin(theta)}\frac{\partial}{\partial theta}sin(theta)\frac{\partial}{\partial theta}-\frac{l_z^2}{sin^2(theta)}\right)\psi(r,\theta,\phi)
+f(x) = \lim_{n\to\infty}\left(\sqrt[n]{a_0+\sum_{k=1}^{n}a_kx^k}-\sqrt[n]{b_0+\sum_{k=1}^{n}b_kx^k}\right)
+g(x) = \int_{-\infty}^{x}(2\pi)^{-1/2}\exp(-t^2/2)\phi(t)dt
+h(x) = C_0e^{\lambda x}+C_1e^{-\lambda x}+\sum_{n=1}^{\infty}A_ne^{-n\mu x}\cos(n\nu x+\delta_n)
+\det{M} = \sum_{\sigma\in S_n}(\operatorname{sgn}{\sigma})m_{1,\sigma(1)}m_{2,\sigma(2)}\cdots m_{n,\sigma(n)}
+J(\phi) = -\int_V[\frac{1}{4}(\nabla\phi)^2+\frac{1}{2}m^2\phi^2+\frac{\lambda}{3!\eta^3}(|\phi|^2)^2]dV
+\Delta f(x,y,z) = f_{xx}+f_{yy}+f_{zz}
+k(\mathbf{x}) = \int_{\mathbb{R}^n}G(\mathbf{x},\mathbf{y})\rho(\mathbf{y})d\mathbf{y}
+\phi(t) = A_0+A_1e^{-t/\tau_1}+A_2e^{-t/\tau_2}+\cdots
+f(x) = C_0+\sum_{n=1}^{\infty}\frac{a_n}{n}sin(n\pi x)
+x_1 x_2 (x_3^2 - x_4^3) + e^{-5\sin(\pi x_5)} \cos(6\tan(7x_6)) = 0
+\dfrac{1}{\sqrt{1-z^2}} \left[ z \partial_x f(x,y) - y \partial_y f(x,y) \right]_{x=x_1,y=y_1} = 0
+a_0 + a_1 x^7 + a_2 \left[ \sin(b_1 x^9) + \cos(b_2 x^{10}) \right] e^{-c_1 x^8} = 0
+\nabla^2 f(x,y,z) - \dfrac{1}{r_1^3} \nabla f(x_1,y_1,z_1) - \dfrac{1}{r_2^3} \nabla f(x_2,y_2,z_2) = 0
+\dfrac{\partial}{\partial x} F(x,y,z,t) = 0
+D[u](x,y) - e^{-3\sin^2(\pi y)} D^*[v](x+h_1,y+h_2) = 0
+\dfrac{\partial^2}{\partial x \partial y} w(x,y) - \dfrac{e^z}{r^n} w(x-a_1,y-a_2) + z^m w(x+b_1,y+b_2) = 0
+\nabla^2 u(x,y) - \sin(\pi x) \cos(\pi y) v(x,y) = 0
+D[f](h) = f(x-h)-2f(x)+f(x+h) = 0
+\dfrac{\partial^3}{\partial x \partial y^2} z(x,y) - e^{-4\cos(5z)} z(x,y+h_1) + \sin(\pi x)^2 z(x-a_1,y+a_2) = 0
+\left( \sum_{k=2}^n \frac{(-1)^k}{k^3} \right) \cdot \sin\left( \pi \sqrt{\frac{n}{2}} \right)
+e^{-x} \int_0^\infty t^{a-1} (t+x)^b e^{-t} dt
+\lim_{n \to \infty} \left[ \sum_{k=1}^n k^{-p} \cos\left( n^2 k \right) \right]
+D_h f(x) = \frac{f(x+h)-2f(x)+f(x-h)}{h^2}
+\int_0^\infty J_0\left( 2\pi f t \right) R(f) df
+f(x) = \lim_{n \to \infty} \frac{1}{n} \sum_{k=1}^n e^{i k x}
+\int_0^1 \ln\left[ \Gamma(x+iy) \right] dx
+\int_0^1 f(x) g\left( x, y(x) \right) h(y(x)) dx = \int_0^1 f(x) g(x, z(x)) dz
+f''(x) + k f'(x) - l f(x) = q(x)
+\sum_{n=1}^\infty (-1)^n \frac{a^{2n-1}}{(2n-1)(2n+1)} = \frac{\pi}{4} a \coth(\pi a) - \frac{a}{2}
+D(z) = (2+\sin(3\pi z))\frac{(z^2+4z+5)^2}{z^3-7z^2+10z}
+\int_0^\infty \frac{\cos(x)\sinh^4(\sqrt{2}x)}{\cosh(x)}dx = \frac{64\pi}{189}
+f(x) = x^{2/3}(\ln(x))^3(1+\tanh(x))
+\operatorname{arctanh}(z) + z\operatorname{arctanh}(z^2) - \frac{z}{2}\log\left(\frac{1+z}{1-z}\right)^2 = \arctanh(z^3)
+G(x,y) = (\sin(x)\cosh(y))^{-1}(\coth(x)+\tanh(y))
+\int_0^x e^{\ln^2(t)}dt = x\left[e^{\ln^2(x)}\left(\frac{1}{2}\ln(x)^2-\frac{1}{4}\ln(x)\right)-1\right]
+h(r,s) = r^2\cos^3(s)(1+\tanh(r))
+\sin(x) = \sum_{k=0}^\infty (-1)^k \frac{(\frac{1}{6})^{4k+1}}{(4k+1)!}\left[2^{4k+1}-(-1)^x 2^{-4k-1}\right]
+H(r,s) = \sum_{n=0}^\infty (-1)^n \frac{(nr^2\sin(s))^n}{(2n)!}
+\int_0^y (2+\cos(x))^{-x}dx = y(\ln(2+\cos(y))) - y + 2\operatorname{Ci}(y\ln(2+\cos(y)))
+\mathrm{e}^{2\sin(\pi x)\cos(3\sqrt{5}y)} \sin^4(7\tan^{-1}(8x+3y))
+-\dfrac{\Gamma(1+\sqrt{2})\Gamma(\pi-3i)\Gamma(2i)}{16^{\pi/2}\Gamma(1+\tfrac{1}{2}(\sqrt{2}-i)\Gamma(1+\tfrac{1}{2}(\sqrt{2}+i))}
+\sum_{k=0}^{\infty} (-1)^k {8k \choose k}^3 (4\sin(\pi x))^{6k}
+(-1)^{\lfloor 3x \rfloor + \lfloor 5y \rfloor} \sin(7\log_2(\sinh^{-1}(\cosh(8z))))
+2^x\sin^5(4\pi y)\cos^{10}(6\tan^{-1}(\sec(3z)))
+\prod_{n=0}^{9} \Gamma\left(n+1+\dfrac{i}{2}\right) (\sin(\pi x))^{-(n-3)}\cos(4^ny)^5
+(3x+y)\cot(5\tanh^{-1}(2x+7y)) - \ln|\sin(6\arctan(\cos(9z)))|
+\dfrac{\Gamma(1+i\sqrt{2})^4\Gamma(3-2i)^3}{\Gamma(1+\tfrac{1}{2}(1+i\sqrt{2}))^2\Gamma(1+\tfrac{1}{2}(1-i\sqrt{2}))^2}
+-\dfrac{\sin(\pi x)\cos^8(7y)}{16^z\sin^5(4\tan^{-1}(\sec(3u)))\cosh^{10}(\sinh(v))}
+\prod_{n=0}^{10} \left(\Gamma\left(n+\dfrac{i}{2}\right) (\sin(\pi x))^3 \cos(4^ny)^7\right)
+x_3 = \frac{1}{\left(2^2 + 3\sqrt[3]{e^4} + \sin(\pi/6)\right)^2}
+y_{10} = \left(1+\ln(x)+e^{-5}\right)^{\frac{\sqrt{3}}{2}}-3\tanh^3\left(x^2\right)
+z_{7} = \sinh^{-1}\left(\frac{\cos(x)}{\cos(y)}\right) - \tan\left(\arctan(x)-\frac{\pi}{6}\right)
+f(x, y) = x^{4/3}\sqrt[3]{y^2+e^x} + 2^x\sinh^{-1}(y)
+g(t) = \left(\ln(t)+\sqrt{1-e^{-2t}}\right)^3
+h(s) = \left(1-\cos(s)\right)^{\frac{\sqrt{5}}{2}} - \tan\left(\sinh^{-1}(\sin(s))\right)
+k(x, y) = \ln\left(\left|\sinh\left(x^2+y^3\right)\right|\right) + e^{xy}
+j(t) = \tanh^4\left(e^{-5t}\right) - \frac{\cos(t)}{\sqrt[3]{1-\sin(t)}} + 3
+i(x, y) = \ln\left(\left|\sinh\left(\frac{y}{\sqrt[3]{x^2+1}}\right)\right|\right) + x^4\cos\left(\arctan(y)\right)
+\dfrac{\int_0^\infty x^2 e^{-3x} \, dx}{\left(\Gamma\left(3/2\right)\right)^2}
+(-1)^{\sinh^{-1}(\ln|\cos(2\pi+z)|)}\, _4F_3(1-\frac{z}{2}, \frac{1-z}{2},\frac{1+z}{2}, 1-\frac{z}{2}; 1,1,1;1)
+\sum_{k=0}^{n-1} (-1)^k {n \choose k}^2 F\left(k+\frac{1}{2}, n-k+\frac{1}{2}, n+1; \sin^2(\pi/4)\right) \sin^{2n}(k\pi/n)
+\exp\biggl[-\sqrt{\dfrac{2}{\pi}} \int_0^\infty (e^{-t}+t e^{-t}) K_{v}(2\sqrt{t}) \, dt\biggr] \, _1F_1(v; 2v+1; z)
+\lim_{m,n \rightarrow \infty} \dfrac{P_m(x) P_n(x)}{(mn)!!}
+\int_0^1 x^a (1-x)^b\mathop{\rm B}\nolimits(a+1,b+1)\cos(2\pi x)\,dx
+(1+\tanh(\sin(\log(x))))^{\mathop{\rm sech}\nolimits(x)}
+\exp\left[\int_0^x \dfrac{e^{-t} - t e^{-t}}{1-t^2} K_{v}(2\sqrt{-t}) \, dt\right]\, _1F_1(v; 2v+1; z)
+\sum_{k=0}^{n-1} (-1)^k {n \choose k}^3 \left[\mathop{\rm B}\nolimits(k+\frac{1}{2}, n-k+\frac{1}{2})^2\right]^{-1} \, _3F_2\biggl(\left.\begin{matrix} 1-\dfrac{z}{2}, k+\dfrac{1}{2}, n-k+\dfrac{1}{2}\\ 2-\dfrac{z}{2}, 1+\dfrac{z}{2}\end{matrix}\right|\dfrac{1}{2}\biggr)
+\int_0^1 \left[\prod_{j=1}^{m} \Gamma(a_j+x)\right] \left[\prod_{k=1}^{n} \Gamma(b_k-x)\right] (1-x)^{c-1}\,dx
+\displaystyle -7\mathrm{e}^{3\sinh(\ln(x))}\left(\frac{\tan(\pi z^2)}{4\cosh(\log_5(w))}+c\right)
+\displaystyle \sum_{n=0}^{\infty}\int_{-\infty}^{\infty}\frac{g_n(t)h_n(x)\sin(nt)}{1+\cos(nt)^2}dt
+\displaystyle \prod_{k=1}^{m}\left(\sum_{i=0}^{n}\binom{n}{i}a_{ki}x^i\right)
+\displaystyle \lim_{x\to\infty}\frac{\int_0^{\pi}\sin(x\cos(t))dt}{e^{-x\sin(t)}}
+\displaystyle \oint_{\gamma}\frac{f(z)}{g(z)^3}dz
+\displaystyle \inf_{x\in[a,b]}\left(\sup_{y\in[c,d]}|h(x,y)|+\int_0^1|k(s)|ds\right)
+\displaystyle \int_0^t\frac{\sin(\pi r)\cos(\pi s)^2}{\ln(u)}dr
+\displaystyle \lim_{n\to\infty}\left(\frac{p_{n+1}}{q_{n+1}}\right)^{\sqrt[3]{r_nr_{n+1}}}
+\displaystyle \sum_{j=0}^{k-1}\binom{m}{j}\binom{n}{k-1-j}x^my^n
+\displaystyle \iint_{\mathbb{R}^2}\frac{\sin(xy)|z|}{1+e^{x+y}}dxdy
+2\sinh^{-1}\left(\sqrt{\frac{3+\cos(4x)}{2}}\right)-\frac{\pi}{3} \cos(x)\coth^2\left(\frac{\sqrt{3}}{3}\tanh(x)\right)
+\frac{\sqrt[3]{x^2-1}-\sqrt[3]{x^2+1}}{\sqrt[3]{x^2-1}+\sqrt[3]{x^2+1}}-\tan\left(\frac{1}{2}\arctan(x)\right)
+e^{z^3}+i z \ln\left(z+\sqrt[3]{z^2+1}\right)^5-2\sin^{-1}\left(\cosh(z)\cos(z^2)\right)
+\frac{\arctan(x^3)-\tan(x^6)}{1-\arctan(x)^4}
+e^{\sin(x)}+\ln\left(\tanh^2\left(\frac{x}{\cos(x)}\right)\right)-i x \sin^{-1}\left(\sin(x)e^{-ix}\right)
+\frac{\csc(z)^3-\sec^2\left(\sqrt[3]{z^2+1}\right)}{\ln\left(\tanh(z)+\sqrt[3]{z^2+1}\right)^7}
+x \sinh^{-1}(\sin(x))-\cos(x) \coth^2\left(\frac{1}{2} \tanh^{-1}(x)\right)
+\frac{\tanh^{-1}(\tan(z))-\ln\left(\tanh(z)+\sec(z)\right)}{\sin(z)^2}
+e^{i x} \cosh^{-1}\left(\sin(x) e^{-ix}\right)-\tanh^2\left(\frac{x}{\sin(x)}\right)
+\frac{\ln(\csc(z)^5+\sec^2(z))}{z-\tanh^{-1}(z)\coth^3\left(\frac{z}{\cos(z)}\right)}
